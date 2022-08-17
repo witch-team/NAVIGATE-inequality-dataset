@@ -1,0 +1,153 @@
+MODEL;SCENARIO;REGION;VARIABLE;UNIT;2013
+Reference;;CHN;Expenditure Share|Food|D1;%;50.28339
+Reference;;CHN;Expenditure Share|Food|D2;%;44.94008
+Reference;;CHN;Expenditure Share|Food|D3;%;41.31058
+Reference;;CHN;Expenditure Share|Food|D4;%;39.32164
+Reference;;CHN;Expenditure Share|Food|D5;%;37.37617
+Reference;;CHN;Expenditure Share|Food|D6;%;35.13456
+Reference;;CHN;Expenditure Share|Food|D7;%;33.03262
+Reference;;CHN;Expenditure Share|Food|D8;%;32.08793
+Reference;;CHN;Expenditure Share|Food|D9;%;28.66085
+Reference;;CHN;Expenditure Share|Food|D10;%;23.72319
+Reference;;CHN;Expenditure Share|Energy|Housing|D1;%;4.290906
+Reference;;CHN;Expenditure Share|Energy|Housing|D2;%;5.205235
+Reference;;CHN;Expenditure Share|Energy|Housing|D3;%;5.421644
+Reference;;CHN;Expenditure Share|Energy|Housing|D4;%;6.134601
+Reference;;CHN;Expenditure Share|Energy|Housing|D5;%;6.299437
+Reference;;CHN;Expenditure Share|Energy|Housing|D6;%;6.215644
+Reference;;CHN;Expenditure Share|Energy|Housing|D7;%;6.167545
+Reference;;CHN;Expenditure Share|Energy|Housing|D8;%;6.702759
+Reference;;CHN;Expenditure Share|Energy|Housing|D9;%;6.697583
+Reference;;CHN;Expenditure Share|Energy|Housing|D10;%;6.75989
+Reference;;CHN;Expenditure Share|Energy|Transportation|D1;%;6.276292
+Reference;;CHN;Expenditure Share|Energy|Transportation|D2;%;7.766181
+Reference;;CHN;Expenditure Share|Energy|Transportation|D3;%;8.549875
+Reference;;CHN;Expenditure Share|Energy|Transportation|D4;%;8.40479
+Reference;;CHN;Expenditure Share|Energy|Transportation|D5;%;8.937824
+Reference;;CHN;Expenditure Share|Energy|Transportation|D6;%;9.06156
+Reference;;CHN;Expenditure Share|Energy|Transportation|D7;%;9.696552
+Reference;;CHN;Expenditure Share|Energy|Transportation|D8;%;9.631663
+Reference;;CHN;Expenditure Share|Energy|Transportation|D9;%;11.19733
+Reference;;CHN;Expenditure Share|Energy|Transportation|D10;%;15.81787
+Reference;;CHN;Income Share|Labour|D1;%;19.62179
+Reference;;CHN;Income Share|Labour|D2;%;30.76445
+Reference;;CHN;Income Share|Labour|D3;%;37.42565
+Reference;;CHN;Income Share|Labour|D4;%;43.51306
+Reference;;CHN;Income Share|Labour|D5;%;48.36356
+Reference;;CHN;Income Share|Labour|D6;%;53.66304
+Reference;;CHN;Income Share|Labour|D7;%;55.24143
+Reference;;CHN;Income Share|Labour|D8;%;59.82026
+Reference;;CHN;Income Share|Labour|D9;%;61.63381
+Reference;;CHN;Income Share|Labour|D10;%;61.10847
+Reference;;CHN;Income Share|Capital|D1;%;
+Reference;;CHN;Income Share|Capital|D2;%;
+Reference;;CHN;Income Share|Capital|D3;%;
+Reference;;CHN;Income Share|Capital|D4;%;
+Reference;;CHN;Income Share|Capital|D5;%;
+Reference;;CHN;Income Share|Capital|D6;%;
+Reference;;CHN;Income Share|Capital|D7;%;
+Reference;;CHN;Income Share|Capital|D8;%;
+Reference;;CHN;Income Share|Capital|D9;%;
+Reference;;CHN;Income Share|Capital|D10;%;
+Reference;;CHN;Income Share|Transfers|D1;%;38.99508
+Reference;;CHN;Income Share|Transfers|D2;%;30.52978
+Reference;;CHN;Income Share|Transfers|D3;%;27.63724
+Reference;;CHN;Income Share|Transfers|D4;%;24.16206
+Reference;;CHN;Income Share|Transfers|D5;%;23.29734
+Reference;;CHN;Income Share|Transfers|D6;%;19.91267
+Reference;;CHN;Income Share|Transfers|D7;%;20.14712
+Reference;;CHN;Income Share|Transfers|D8;%;18.0002
+Reference;;CHN;Income Share|Transfers|D9;%;16.01264
+Reference;;CHN;Income Share|Transfers|D10;%;13.06708
+Reference;;CHN;Income Share|Other|D1;%;41.38313
+Reference;;CHN;Income Share|Other|D2;%;38.70577
+Reference;;CHN;Income Share|Other|D3;%;34.93711
+Reference;;CHN;Income Share|Other|D4;%;32.32488
+Reference;;CHN;Income Share|Other|D5;%;28.3391
+Reference;;CHN;Income Share|Other|D6;%;26.42429
+Reference;;CHN;Income Share|Other|D7;%;24.61145
+Reference;;CHN;Income Share|Other|D8;%;22.17954
+Reference;;CHN;Income Share|Other|D9;%;22.35355
+Reference;;CHN;Income Share|Other|D10;%;25.82445
+Reference;;CHN;Savings Rate|D1;%;-35.38834
+Reference;;CHN;Savings Rate|D2;%;-3.149273
+Reference;;CHN;Savings Rate|D3;%;9.860445
+Reference;;CHN;Savings Rate|D4;%;20.64453
+Reference;;CHN;Savings Rate|D5;%;23.58526
+Reference;;CHN;Savings Rate|D6;%;29.11573
+Reference;;CHN;Savings Rate|D7;%;31.04975
+Reference;;CHN;Savings Rate|D8;%;33.4485
+Reference;;CHN;Savings Rate|D9;%;36.55191
+Reference;;CHN;Savings Rate|D10;%;40.44219
+Reference;;CHN;Education|No Education|D1;%;2.58
+Reference;;CHN;Education|No Education|D2;%;3.32
+Reference;;CHN;Education|No Education|D3;%;4.4
+Reference;;CHN;Education|No Education|D4;%;3.79
+Reference;;CHN;Education|No Education|D5;%;4.05
+Reference;;CHN;Education|No Education|D6;%;4.9
+Reference;;CHN;Education|No Education|D7;%;6.23
+Reference;;CHN;Education|No Education|D8;%;5.81
+Reference;;CHN;Education|No Education|D9;%;7.26
+Reference;;CHN;Education|No Education|D10;%;7.57
+Reference;;CHN;Education|Primary Education|D1;%;77.26
+Reference;;CHN;Education|Primary Education|D2;%;78.03
+Reference;;CHN;Education|Primary Education|D3;%;72.35
+Reference;;CHN;Education|Primary Education|D4;%;71.35
+Reference;;CHN;Education|Primary Education|D5;%;64.54
+Reference;;CHN;Education|Primary Education|D6;%;60.69
+Reference;;CHN;Education|Primary Education|D7;%;54.06
+Reference;;CHN;Education|Primary Education|D8;%;50.77
+Reference;;CHN;Education|Primary Education|D9;%;42.65
+Reference;;CHN;Education|Primary Education|D10;%;31.29
+Reference;;CHN;Education|Secondary Education|D1;%;12.88
+Reference;;CHN;Education|Secondary Education|D2;%;13.2
+Reference;;CHN;Education|Secondary Education|D3;%;17.16
+Reference;;CHN;Education|Secondary Education|D4;%;17.68
+Reference;;CHN;Education|Secondary Education|D5;%;21.29
+Reference;;CHN;Education|Secondary Education|D6;%;22.44
+Reference;;CHN;Education|Secondary Education|D7;%;23.59
+Reference;;CHN;Education|Secondary Education|D8;%;25.32
+Reference;;CHN;Education|Secondary Education|D9;%;25.73
+Reference;;CHN;Education|Secondary Education|D10;%;23.13
+Reference;;CHN;Education|Tertiary Education|D1;%;7.28
+Reference;;CHN;Education|Tertiary Education|D2;%;5.46
+Reference;;CHN;Education|Tertiary Education|D3;%;6.08
+Reference;;CHN;Education|Tertiary Education|D4;%;7.18
+Reference;;CHN;Education|Tertiary Education|D5;%;10.13
+Reference;;CHN;Education|Tertiary Education|D6;%;11.96
+Reference;;CHN;Education|Tertiary Education|D7;%;16.12
+Reference;;CHN;Education|Tertiary Education|D8;%;18.1
+Reference;;CHN;Education|Tertiary Education|D9;%;24.36
+Reference;;CHN;Education|Tertiary Education|D10;%;38.01
+Reference;;CHN;Inequality Index|Gini;index;0.419
+Reference;;CHN;Inequality Index|Absolute Poverty;%;8.2
+Reference;;CHN;Household Size|D1;number;4.269231
+Reference;;CHN;Household Size|D2;number;3.666667
+Reference;;CHN;Household Size|D3;number;3.521739
+Reference;;CHN;Household Size|D4;number;3.956522
+Reference;;CHN;Household Size|D5;number;3
+Reference;;CHN;Household Size|D6;number;3.375
+Reference;;CHN;Household Size|D7;number;3.347826
+Reference;;CHN;Household Size|D8;number;3.391304
+Reference;;CHN;Household Size|D9;number;3.25
+Reference;;CHN;Household Size|D10;number;3.318182
+Reference;;CHN;Expenditure Decile|D1;% of total expenditures in a given quantile;2.159872798
+Reference;;CHN;Expenditure Decile|D2;% of total expenditures in a given quantile;3.593593109
+Reference;;CHN;Expenditure Decile|D3;% of total expenditures in a given quantile;4.662300741
+Reference;;CHN;Expenditure Decile|D4;% of total expenditures in a given quantile;5.728602827
+Reference;;CHN;Expenditure Decile|D5;% of total expenditures in a given quantile;6.883355855
+Reference;;CHN;Expenditure Decile|D6;% of total expenditures in a given quantile;8.270110424
+Reference;;CHN;Expenditure Decile|D7;% of total expenditures in a given quantile;9.956842554
+Reference;;CHN;Expenditure Decile|D8;% of total expenditures in a given quantile;12.36031107
+Reference;;CHN;Expenditure Decile|D9;% of total expenditures in a given quantile;16.30171226
+Reference;;CHN;Expenditure Decile|D10;% of total expenditures in a given quantile;30.08329836
+Reference;;CHN;Income Decile|D1;% of total Income in a given quantile;1.620543743
+Reference;;CHN;Income Decile|D2;% of total Income in a given quantile;3.156235499
+Reference;;CHN;Income Decile|D3;% of total Income in a given quantile;4.366060121
+Reference;;CHN;Income Decile|D4;% of total Income in a given quantile;5.546429516
+Reference;;CHN;Income Decile|D5;% of total Income in a given quantile;6.879480806
+Reference;;CHN;Income Decile|D6;% of total Income in a given quantile;8.449302815
+Reference;;CHN;Income Decile|D7;% of total Income in a given quantile;10.27925905
+Reference;;CHN;Income Decile|D8;% of total Income in a given quantile;12.77903598
+Reference;;CHN;Income Decile|D9;% of total Income in a given quantile;16.83160301
+Reference;;CHN;Income Decile|D10;% of total Income in a given quantile;30.09204945

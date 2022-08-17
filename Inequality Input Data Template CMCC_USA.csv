@@ -1,0 +1,153 @@
+MODEL;SCENARIO;REGION;VARIABLE;UNIT;2018
+Reference;;USA;Expenditure Share|Food|D1;%;24.31388
+Reference;;USA;Expenditure Share|Food|D2;%;21.04099
+Reference;;USA;Expenditure Share|Food|D3;%;19.7019
+Reference;;USA;Expenditure Share|Food|D4;%;18.19085
+Reference;;USA;Expenditure Share|Food|D5;%;18.15539
+Reference;;USA;Expenditure Share|Food|D6;%;16.79388
+Reference;;USA;Expenditure Share|Food|D7;%;17.04614
+Reference;;USA;Expenditure Share|Food|D8;%;16.66261
+Reference;;USA;Expenditure Share|Food|D9;%;14.95159
+Reference;;USA;Expenditure Share|Food|D10;%;11.00666
+Reference;;USA;Expenditure Share|Energy|Housing|D1;%;14.35094
+Reference;;USA;Expenditure Share|Energy|Housing|D2;%;12.25237
+Reference;;USA;Expenditure Share|Energy|Housing|D3;%;11.74204
+Reference;;USA;Expenditure Share|Energy|Housing|D4;%;10.97518
+Reference;;USA;Expenditure Share|Energy|Housing|D5;%;10.0238
+Reference;;USA;Expenditure Share|Energy|Housing|D6;%;9.37801
+Reference;;USA;Expenditure Share|Energy|Housing|D7;%;8.581571
+Reference;;USA;Expenditure Share|Energy|Housing|D8;%;8.03271
+Reference;;USA;Expenditure Share|Energy|Housing|D9;%;7.166154
+Reference;;USA;Expenditure Share|Energy|Housing|D10;%;4.749737
+Reference;;USA;Expenditure Share|Energy|Transportation|D1;%;9.439716
+Reference;;USA;Expenditure Share|Energy|Transportation|D2;%;11.91868
+Reference;;USA;Expenditure Share|Energy|Transportation|D3;%;11.53918
+Reference;;USA;Expenditure Share|Energy|Transportation|D4;%;13.65193
+Reference;;USA;Expenditure Share|Energy|Transportation|D5;%;13.82532
+Reference;;USA;Expenditure Share|Energy|Transportation|D6;%;14.64414
+Reference;;USA;Expenditure Share|Energy|Transportation|D7;%;14.67155
+Reference;;USA;Expenditure Share|Energy|Transportation|D8;%;13.4695
+Reference;;USA;Expenditure Share|Energy|Transportation|D9;%;14.10128
+Reference;;USA;Expenditure Share|Energy|Transportation|D10;%;13.5415
+Reference;;USA;Income Share|Labour|D1;%;24.214382
+Reference;;USA;Income Share|Labour|D2;%;28.055467
+Reference;;USA;Income Share|Labour|D3;%;47.664885
+Reference;;USA;Income Share|Labour|D4;%;56.859833
+Reference;;USA;Income Share|Labour|D5;%;69.221844
+Reference;;USA;Income Share|Labour|D6;%;77.681709
+Reference;;USA;Income Share|Labour|D7;%;83.819512
+Reference;;USA;Income Share|Labour|D8;%;83.553829
+Reference;;USA;Income Share|Labour|D9;%;85.991739
+Reference;;USA;Income Share|Labour|D10;%;90.207146
+Reference;;USA;Income Share|Capital|D1;%;17.69157
+Reference;;USA;Income Share|Capital|D2;%;6.380245
+Reference;;USA;Income Share|Capital|D3;%;7.990504
+Reference;;USA;Income Share|Capital|D4;%;7.831993
+Reference;;USA;Income Share|Capital|D5;%;3.428623
+Reference;;USA;Income Share|Capital|D6;%;10.88828
+Reference;;USA;Income Share|Capital|D7;%;12.83447
+Reference;;USA;Income Share|Capital|D8;%;4.205423
+Reference;;USA;Income Share|Capital|D9;%;4.681958
+Reference;;USA;Income Share|Capital|D10;%;1.309722
+Reference;;USA;Income Share|Transfers|D1;%;29.69155
+Reference;;USA;Income Share|Transfers|D2;%;5.299467
+Reference;;USA;Income Share|Transfers|D3;%;7.342825
+Reference;;USA;Income Share|Transfers|D4;%;6.599131
+Reference;;USA;Income Share|Transfers|D5;%;6.255877
+Reference;;USA;Income Share|Transfers|D6;%;9.174608
+Reference;;USA;Income Share|Transfers|D7;%;7.127929
+Reference;;USA;Income Share|Transfers|D8;%;5.336956
+Reference;;USA;Income Share|Transfers|D9;%;4.158958
+Reference;;USA;Income Share|Transfers|D10;%;3.315245
+Reference;;USA;Income Share|Other|D1;%;28.402498
+Reference;;USA;Income Share|Other|D2;%;60.264821
+Reference;;USA;Income Share|Other|D3;%;37.001786
+Reference;;USA;Income Share|Other|D4;%;28.709043
+Reference;;USA;Income Share|Other|D5;%;21.093656
+Reference;;USA;Income Share|Other|D6;%;2.255403
+Reference;;USA;Income Share|Other|D7;%;-3.781911
+Reference;;USA;Income Share|Other|D8;%;6.903792
+Reference;;USA;Income Share|Other|D9;%;5.167345
+Reference;;USA;Income Share|Other|D10;%;5.167887
+Reference;;USA;Savings Rate|D1;%;-36.95816
+Reference;;USA;Savings Rate|D2;%;12.03299
+Reference;;USA;Savings Rate|D3;%;26.17737
+Reference;;USA;Savings Rate|D4;%;37.96586
+Reference;;USA;Savings Rate|D5;%;47.1009
+Reference;;USA;Savings Rate|D6;%;50.43351
+Reference;;USA;Savings Rate|D7;%;54.03424
+Reference;;USA;Savings Rate|D8;%;57.31701
+Reference;;USA;Savings Rate|D9;%;64.31571
+Reference;;USA;Savings Rate|D10;%;69.45821
+Reference;;USA;Education|No Education|D1;%;0.41
+Reference;;USA;Education|No Education|D2;%;0.62
+Reference;;USA;Education|No Education|D3;%;0.21
+Reference;;USA;Education|No Education|D4;%;0.62
+Reference;;USA;Education|No Education|D5;%;0.62
+Reference;;USA;Education|No Education|D6;%;0.21
+Reference;;USA;Education|No Education|D7;%;0
+Reference;;USA;Education|No Education|D8;%;0.21
+Reference;;USA;Education|No Education|D9;%;0
+Reference;;USA;Education|No Education|D10;%;0
+Reference;;USA;Education|Primary Education|D1;%;3.92
+Reference;;USA;Education|Primary Education|D2;%;3.09
+Reference;;USA;Education|Primary Education|D3;%;3.09
+Reference;;USA;Education|Primary Education|D4;%;3.31
+Reference;;USA;Education|Primary Education|D5;%;3.3
+Reference;;USA;Education|Primary Education|D6;%;1.65
+Reference;;USA;Education|Primary Education|D7;%;1.45
+Reference;;USA;Education|Primary Education|D8;%;1.65
+Reference;;USA;Education|Primary Education|D9;%;0.41
+Reference;;USA;Education|Primary Education|D10;%;0.21
+Reference;;USA;Education|Secondary Education|D1;%;77.11
+Reference;;USA;Education|Secondary Education|D2;%;77.32
+Reference;;USA;Education|Secondary Education|D3;%;72.99
+Reference;;USA;Education|Secondary Education|D4;%;70.04
+Reference;;USA;Education|Secondary Education|D5;%;59.38
+Reference;;USA;Education|Secondary Education|D6;%;56.7
+Reference;;USA;Education|Secondary Education|D7;%;52.07
+Reference;;USA;Education|Secondary Education|D8;%;44.12
+Reference;;USA;Education|Secondary Education|D9;%;38.14
+Reference;;USA;Education|Secondary Education|D10;%;23.55
+Reference;;USA;Education|Tertiary Education|D1;%;18.56
+Reference;;USA;Education|Tertiary Education|D2;%;18.97
+Reference;;USA;Education|Tertiary Education|D3;%;23.71
+Reference;;USA;Education|Tertiary Education|D4;%;26.03
+Reference;;USA;Education|Tertiary Education|D5;%;36.7
+Reference;;USA;Education|Tertiary Education|D6;%;41.44
+Reference;;USA;Education|Tertiary Education|D7;%;46.49
+Reference;;USA;Education|Tertiary Education|D8;%;54.02
+Reference;;USA;Education|Tertiary Education|D9;%;61.44
+Reference;;USA;Education|Tertiary Education|D10;%;76.24
+Reference;;USA;Inequality Index|Gini;index;0.473
+Reference;;USA;Inequality Index|Absolute Poverty;%;11.8
+Reference;;USA;Household Size|D1;number;1.525
+Reference;;USA;Household Size|D2;number;1.638
+Reference;;USA;Household Size|D3;number;1.996
+Reference;;USA;Household Size|D4;number;2.14
+Reference;;USA;Household Size|D5;number;2.364
+Reference;;USA;Household Size|D6;number;2.572
+Reference;;USA;Household Size|D7;number;2.847
+Reference;;USA;Household Size|D8;number;2.977
+Reference;;USA;Household Size|D9;number;3.035
+Reference;;USA;Household Size|D10;number;3.186
+Reference;;USA;Expenditure Decile|D1;% of total expenditures in a given quantile;1.605
+Reference;;USA;Expenditure Decile|D2;% of total expenditures in a given quantile;2.833
+Reference;;USA;Expenditure Decile|D3;% of total expenditures in a given quantile;3.901
+Reference;;USA;Expenditure Decile|D4;% of total expenditures in a given quantile;5.048
+Reference;;USA;Expenditure Decile|D5;% of total expenditures in a given quantile;6.307
+Reference;;USA;Expenditure Decile|D6;% of total expenditures in a given quantile;7.842
+Reference;;USA;Expenditure Decile|D7;% of total expenditures in a given quantile;9.809
+Reference;;USA;Expenditure Decile|D8;% of total expenditures in a given quantile;12.544
+Reference;;USA;Expenditure Decile|D9;% of total expenditures in a given quantile;16.789
+Reference;;USA;Expenditure Decile|D10;% of total expenditures in a given quantile;33.322
+Reference;;USA;Income Decile|D1;% of total Income in a given quantile;0.964
+Reference;;USA;Income Decile|D2;% of total Income in a given quantile;2.289
+Reference;;USA;Income Decile|D3;% of total Income in a given quantile;3.499
+Reference;;USA;Income Decile|D4;% of total Income in a given quantile;4.777
+Reference;;USA;Income Decile|D5;% of total Income in a given quantile;6.208
+Reference;;USA;Income Decile|D6;% of total Income in a given quantile;8.093
+Reference;;USA;Income Decile|D7;% of total Income in a given quantile;10.344
+Reference;;USA;Income Decile|D8;% of total Income in a given quantile;13.024
+Reference;;USA;Income Decile|D9;% of total Income in a given quantile;17.734
+Reference;;USA;Income Decile|D10;% of total Income in a given quantile;33.067

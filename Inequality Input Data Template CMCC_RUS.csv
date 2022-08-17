@@ -1,0 +1,181 @@
+MODEL;SCENARIO;REGION;VARIABLE;UNIT;2019
+Reference;;RUS;Expenditure Share|Food|D1;% of total HH expenditures;37.67131
+Reference;;RUS;Expenditure Share|Food|D2;% of total HH expenditures;35.63235
+Reference;;RUS;Expenditure Share|Food|D3;% of total HH expenditures;38.80611
+Reference;;RUS;Expenditure Share|Food|D4;% of total HH expenditures;35.9866
+Reference;;RUS;Expenditure Share|Food|D5;% of total HH expenditures;37.48838
+Reference;;RUS;Expenditure Share|Food|D6;% of total HH expenditures;33.72388
+Reference;;RUS;Expenditure Share|Food|D7;% of total HH expenditures;31.10408
+Reference;;RUS;Expenditure Share|Food|D8;% of total HH expenditures;29.76186
+Reference;;RUS;Expenditure Share|Food|D9;% of total HH expenditures;24.99315
+Reference;;RUS;Expenditure Share|Food|D10;% of total HH expenditures;17.67852
+Reference;;RUS;Expenditure Share|Food|non-Meat|D1;% of total HH expenditures;27.29484
+Reference;;RUS;Expenditure Share|Food|non-Meat|D2;% of total HH expenditures;25.95403
+Reference;;RUS;Expenditure Share|Food|non-Meat|D3;% of total HH expenditures;27.15441
+Reference;;RUS;Expenditure Share|Food|non-Meat|D4;% of total HH expenditures;26.72976
+Reference;;RUS;Expenditure Share|Food|non-Meat|D5;% of total HH expenditures;27.78164
+Reference;;RUS;Expenditure Share|Food|non-Meat|D6;% of total HH expenditures;24.51655
+Reference;;RUS;Expenditure Share|Food|non-Meat|D7;% of total HH expenditures;23.01149
+Reference;;RUS;Expenditure Share|Food|non-Meat|D8;% of total HH expenditures;22.29624
+Reference;;RUS;Expenditure Share|Food|non-Meat|D9;% of total HH expenditures;18.54097
+Reference;;RUS;Expenditure Share|Food|non-Meat|D10;% of total HH expenditures;13.30908
+Reference;;RUS;Expenditure Share|Food|Meat|D1;% of total HH expenditures;10.37646
+Reference;;RUS;Expenditure Share|Food|Meat|D2;% of total HH expenditures;9.67833
+Reference;;RUS;Expenditure Share|Food|Meat|D3;% of total HH expenditures;11.6517
+Reference;;RUS;Expenditure Share|Food|Meat|D4;% of total HH expenditures;9.25683
+Reference;;RUS;Expenditure Share|Food|Meat|D5;% of total HH expenditures;9.706748
+Reference;;RUS;Expenditure Share|Food|Meat|D6;% of total HH expenditures;9.207333
+Reference;;RUS;Expenditure Share|Food|Meat|D7;% of total HH expenditures;8.092595
+Reference;;RUS;Expenditure Share|Food|Meat|D8;% of total HH expenditures;7.465618
+Reference;;RUS;Expenditure Share|Food|Meat|D9;% of total HH expenditures;6.452182
+Reference;;RUS;Expenditure Share|Food|Meat|D10;% of total HH expenditures;4.369442
+Reference;;RUS;Expenditure Share|Energy|Housing|D1;% of total HH expenditures;17.28124
+Reference;;RUS;Expenditure Share|Energy|Housing|D2;% of total HH expenditures;16.48852
+Reference;;RUS;Expenditure Share|Energy|Housing|D3;% of total HH expenditures;16.94732
+Reference;;RUS;Expenditure Share|Energy|Housing|D4;% of total HH expenditures;15.05955
+Reference;;RUS;Expenditure Share|Energy|Housing|D5;% of total HH expenditures;15.18173
+Reference;;RUS;Expenditure Share|Energy|Housing|D6;% of total HH expenditures;13.85086
+Reference;;RUS;Expenditure Share|Energy|Housing|D7;% of total HH expenditures;13.455
+Reference;;RUS;Expenditure Share|Energy|Housing|D8;% of total HH expenditures;11.34721
+Reference;;RUS;Expenditure Share|Energy|Housing|D9;% of total HH expenditures;10.78843
+Reference;;RUS;Expenditure Share|Energy|Housing|D10;% of total HH expenditures;8.798811
+Reference;;RUS;Expenditure Share|Energy|Transportation|D1;% of total HH expenditures;2.258759
+Reference;;RUS;Expenditure Share|Energy|Transportation|D2;% of total HH expenditures;2.106492
+Reference;;RUS;Expenditure Share|Energy|Transportation|D3;% of total HH expenditures;2.329919
+Reference;;RUS;Expenditure Share|Energy|Transportation|D4;% of total HH expenditures;2.370243
+Reference;;RUS;Expenditure Share|Energy|Transportation|D5;% of total HH expenditures;2.745645
+Reference;;RUS;Expenditure Share|Energy|Transportation|D6;% of total HH expenditures;3.203645
+Reference;;RUS;Expenditure Share|Energy|Transportation|D7;% of total HH expenditures;2.78647
+Reference;;RUS;Expenditure Share|Energy|Transportation|D8;% of total HH expenditures;3.540561
+Reference;;RUS;Expenditure Share|Energy|Transportation|D9;% of total HH expenditures;3.353254
+Reference;;RUS;Expenditure Share|Energy|Transportation|D10;% of total HH expenditures;2.510538
+Reference;;RUS;Income Share|Labour|D1;% of total HH income;39.213809
+Reference;;RUS;Income Share|Labour|D2;% of total HH income;42.109812
+Reference;;RUS;Income Share|Labour|D3;% of total HH income;47.947612
+Reference;;RUS;Income Share|Labour|D4;% of total HH income;59.274245
+Reference;;RUS;Income Share|Labour|D5;% of total HH income;69.017279
+Reference;;RUS;Income Share|Labour|D6;% of total HH income;75.515807
+Reference;;RUS;Income Share|Labour|D7;% of total HH income;78.349044
+Reference;;RUS;Income Share|Labour|D8;% of total HH income;81.492512
+Reference;;RUS;Income Share|Labour|D9;% of total HH income;85.960768
+Reference;;RUS;Income Share|Labour|D10;% of total HH income;89.512591
+Reference;;RUS;Income Share|Capital|D1;% of total HH income;0.313653
+Reference;;RUS;Income Share|Capital|D2;% of total HH income;0.363123
+Reference;;RUS;Income Share|Capital|D3;% of total HH income;0.321677
+Reference;;RUS;Income Share|Capital|D4;% of total HH income;0.617906
+Reference;;RUS;Income Share|Capital|D5;% of total HH income;0.517744
+Reference;;RUS;Income Share|Capital|D6;% of total HH income;0.544454
+Reference;;RUS;Income Share|Capital|D7;% of total HH income;0.836523
+Reference;;RUS;Income Share|Capital|D8;% of total HH income;1.011465
+Reference;;RUS;Income Share|Capital|D9;% of total HH income;0.949351
+Reference;;RUS;Income Share|Capital|D10;% of total HH income;1.404871
+Reference;;RUS;Income Share|Transfers|D1;% of total HH income;60.472538
+Reference;;RUS;Income Share|Transfers|D2;% of total HH income;57.527065
+Reference;;RUS;Income Share|Transfers|D3;% of total HH income;51.730711
+Reference;;RUS;Income Share|Transfers|D4;% of total HH income;40.107849
+Reference;;RUS;Income Share|Transfers|D5;% of total HH income;30.464976
+Reference;;RUS;Income Share|Transfers|D6;% of total HH income;23.939739
+Reference;;RUS;Income Share|Transfers|D7;% of total HH income;20.814433
+Reference;;RUS;Income Share|Transfers|D8;% of total HH income;17.496023
+Reference;;RUS;Income Share|Transfers|D9;% of total HH income;13.089881
+Reference;;RUS;Income Share|Transfers|D10;% of total HH income;9.082538
+Reference;;RUS;Income Share|Other|D1;% of total HH income;0
+Reference;;RUS;Income Share|Other|D2;% of total HH income;0
+Reference;;RUS;Income Share|Other|D3;% of total HH income;0
+Reference;;RUS;Income Share|Other|D4;% of total HH income;0
+Reference;;RUS;Income Share|Other|D5;% of total HH income;0
+Reference;;RUS;Income Share|Other|D6;% of total HH income;0
+Reference;;RUS;Income Share|Other|D7;% of total HH income;0
+Reference;;RUS;Income Share|Other|D8;% of total HH income;0
+Reference;;RUS;Income Share|Other|D9;% of total HH income;0
+Reference;;RUS;Income Share|Other|D10;% of total HH income;0
+Reference;;RUS;Savings Rate|D1;% of total HH income;-50
+Reference;;RUS;Savings Rate|D2;% of total HH income;10.0915
+Reference;;RUS;Savings Rate|D3;% of total HH income;17.6277
+Reference;;RUS;Savings Rate|D4;% of total HH income;17.20025
+Reference;;RUS;Savings Rate|D5;% of total HH income;27.93151
+Reference;;RUS;Savings Rate|D6;% of total HH income;26.16061
+Reference;;RUS;Savings Rate|D7;% of total HH income;30.69594
+Reference;;RUS;Savings Rate|D8;% of total HH income;34.91363
+Reference;;RUS;Savings Rate|D9;% of total HH income;35.44072
+Reference;;RUS;Savings Rate|D10;% of total HH income;44.18681
+Reference;;RUS;Wealth Share|D1;% of national wealth;-0.33
+Reference;;RUS;Wealth Share|D2;% of national wealth;0.17
+Reference;;RUS;Wealth Share|D3;% of national wealth;0.47
+Reference;;RUS;Wealth Share|D4;% of national wealth;0.92
+Reference;;RUS;Wealth Share|D5;% of national wealth;1.85
+Reference;;RUS;Wealth Share|D6;% of national wealth;2.83
+Reference;;RUS;Wealth Share|D7;% of national wealth;4.09
+Reference;;RUS;Wealth Share|D8;% of national wealth;6.04
+Reference;;RUS;Wealth Share|D9;% of national wealth;9.76
+Reference;;RUS;Wealth Share|D10;% of national wealth;74.19
+Reference;;RUS;Education|Under 15|D1;% of household heads in a given quantile;0
+Reference;;RUS;Education|Under 15|D2;% of household heads in a given quantile;0
+Reference;;RUS;Education|Under 15|D3;% of household heads in a given quantile;0
+Reference;;RUS;Education|Under 15|D4;% of household heads in a given quantile;0
+Reference;;RUS;Education|Under 15|D5;% of household heads in a given quantile;0
+Reference;;RUS;Education|Under 15|D6;% of household heads in a given quantile;0
+Reference;;RUS;Education|Under 15|D7;% of household heads in a given quantile;0
+Reference;;RUS;Education|Under 15|D8;% of household heads in a given quantile;0
+Reference;;RUS;Education|Under 15|D9;% of household heads in a given quantile;0
+Reference;;RUS;Education|Under 15|D10;% of household heads in a given quantile;0
+Reference;;RUS;Education|No Education|D1;% of household heads in a given quantile;1.556192
+Reference;;RUS;Education|No Education|D2;% of household heads in a given quantile;1.656687
+Reference;;RUS;Education|No Education|D3;% of household heads in a given quantile;1.93339
+Reference;;RUS;Education|No Education|D4;% of household heads in a given quantile;1.603592
+Reference;;RUS;Education|No Education|D5;% of household heads in a given quantile;0.785931
+Reference;;RUS;Education|No Education|D6;% of household heads in a given quantile;0.467708
+Reference;;RUS;Education|No Education|D7;% of household heads in a given quantile;0.073165
+Reference;;RUS;Education|No Education|D8;% of household heads in a given quantile;0.024685
+Reference;;RUS;Education|No Education|D9;% of household heads in a given quantile;0.026719
+Reference;;RUS;Education|No Education|D10;% of household heads in a given quantile;0.013395
+Reference;;RUS;Education|Primary Education|D1;% of household heads in a given quantile;12.518501
+Reference;;RUS;Education|Primary Education|D2;% of household heads in a given quantile;9.389261
+Reference;;RUS;Education|Primary Education|D3;% of household heads in a given quantile;8.081816
+Reference;;RUS;Education|Primary Education|D4;% of household heads in a given quantile;4.913671
+Reference;;RUS;Education|Primary Education|D5;% of household heads in a given quantile;2.864991
+Reference;;RUS;Education|Primary Education|D6;% of household heads in a given quantile;1.669763
+Reference;;RUS;Education|Primary Education|D7;% of household heads in a given quantile;1.620798
+Reference;;RUS;Education|Primary Education|D8;% of household heads in a given quantile;0.612686
+Reference;;RUS;Education|Primary Education|D9;% of household heads in a given quantile;0.430864
+Reference;;RUS;Education|Primary Education|D10;% of household heads in a given quantile;0.081411
+Reference;;RUS;Education|Secondary Education|D1;% of household heads in a given quantile;71.266034
+Reference;;RUS;Education|Secondary Education|D2;% of household heads in a given quantile;68.015987
+Reference;;RUS;Education|Secondary Education|D3;% of household heads in a given quantile;64.274711
+Reference;;RUS;Education|Secondary Education|D4;% of household heads in a given quantile;60.331586
+Reference;;RUS;Education|Secondary Education|D5;% of household heads in a given quantile;59.37072
+Reference;;RUS;Education|Secondary Education|D6;% of household heads in a given quantile;52.407868
+Reference;;RUS;Education|Secondary Education|D7;% of household heads in a given quantile;49.199063
+Reference;;RUS;Education|Secondary Education|D8;% of household heads in a given quantile;43.423291
+Reference;;RUS;Education|Secondary Education|D9;% of household heads in a given quantile;37.261146
+Reference;;RUS;Education|Secondary Education|D10;% of household heads in a given quantile;23.124842
+Reference;;RUS;Education|Tertiary Education|D1;% of household heads in a given quantile;14.659274
+Reference;;RUS;Education|Tertiary Education|D2;% of household heads in a given quantile;20.938065
+Reference;;RUS;Education|Tertiary Education|D3;% of household heads in a given quantile;25.710083
+Reference;;RUS;Education|Tertiary Education|D4;% of household heads in a given quantile;33.151151
+Reference;;RUS;Education|Tertiary Education|D5;% of household heads in a given quantile;36.978357
+Reference;;RUS;Education|Tertiary Education|D6;% of household heads in a given quantile;45.454661
+Reference;;RUS;Education|Tertiary Education|D7;% of household heads in a given quantile;49.106974
+Reference;;RUS;Education|Tertiary Education|D8;% of household heads in a given quantile;55.939338
+Reference;;RUS;Education|Tertiary Education|D9;% of household heads in a given quantile;62.281271
+Reference;;RUS;Education|Tertiary Education|D10;% of household heads in a given quantile;76.780351
+Reference;;RUS;Expenditure Decile|D1;% of total expenditures in a given quantile;4.953715129
+Reference;;RUS;Expenditure Decile|D2;% of total expenditures in a given quantile;5.643590966
+Reference;;RUS;Expenditure Decile|D3;% of total expenditures in a given quantile;6.209553958
+Reference;;RUS;Expenditure Decile|D4;% of total expenditures in a given quantile;7.199262861
+Reference;;RUS;Expenditure Decile|D5;% of total expenditures in a given quantile;7.165587959
+Reference;;RUS;Expenditure Decile|D6;% of total expenditures in a given quantile;8.280417648
+Reference;;RUS;Expenditure Decile|D7;% of total expenditures in a given quantile;9.768030662
+Reference;;RUS;Expenditure Decile|D8;% of total expenditures in a given quantile;11.59798687
+Reference;;RUS;Expenditure Decile|D9;% of total expenditures in a given quantile;14.85407658
+Reference;;RUS;Expenditure Decile|D10;% of total expenditures in a given quantile;24.32777737
+Reference;;RUS;Income Decile|D1;% of total Income in a given quantile;3.104298128
+Reference;;RUS;Income Decile|D2;% of total Income in a given quantile;5.072385128
+Reference;;RUS;Income Decile|D3;% of total Income in a given quantile;6.121802387
+Reference;;RUS;Income Decile|D4;% of total Income in a given quantile;7.049013873
+Reference;;RUS;Income Decile|D5;% of total Income in a given quantile;8.010099265
+Reference;;RUS;Income Decile|D6;% of total Income in a given quantile;9.005068375
+Reference;;RUS;Income Decile|D7;% of total Income in a given quantile;10.23870198
+Reference;;RUS;Income Decile|D8;% of total Income in a given quantile;11.86262801
+Reference;;RUS;Income Decile|D9;% of total Income in a given quantile;14.44728289
+Reference;;RUS;Income Decile|D10;% of total Income in a given quantile;25.08871997

@@ -1,0 +1,153 @@
+MODEL;SCENARIO;REGION;VARIABLE;UNIT;2008;2010;2012;2015;2017
+Reference;;ZAF;Expenditure Share|Food|D1;%;49.823;47.59;51.361;46.806;47.879
+Reference;;ZAF;Expenditure Share|Food|D2;%;51.858;52.583;49.239;47.36;45.222
+Reference;;ZAF;Expenditure Share|Food|D3;%;50.702;51.544;47.507;44.818;42.405
+Reference;;ZAF;Expenditure Share|Food|D4;%;48.542;50.494;45.421;42.366;39.03
+Reference;;ZAF;Expenditure Share|Food|D5;%;45.171;49.212;42.872;38.387;36.676
+Reference;;ZAF;Expenditure Share|Food|D6;%;43.287;46.069;40.212;36.785;33.854
+Reference;;ZAF;Expenditure Share|Food|D7;%;39.216;41.849;35.29;32.358;29.345
+Reference;;ZAF;Expenditure Share|Food|D8;%;32.111;35.399;30.315;27.659;24.569
+Reference;;ZAF;Expenditure Share|Food|D9;%;22.746;26.233;23.997;23.051;17.983
+Reference;;ZAF;Expenditure Share|Food|D10;%;13.446;15.573;15.543;14.728;12.155
+Reference;;ZAF;Expenditure Share|Energy|Housing|D1;%;6.898;9.082;9.665;8.218;8.203
+Reference;;ZAF;Expenditure Share|Energy|Housing|D2;%;6.13;8.792;8.907;7.77;7.054
+Reference;;ZAF;Expenditure Share|Energy|Housing|D3;%;5.547;8.068;8.574;7.301;6.974
+Reference;;ZAF;Expenditure Share|Energy|Housing|D4;%;5.706;7.544;8.137;7.026;6.65
+Reference;;ZAF;Expenditure Share|Energy|Housing|D5;%;5.447;7.121;7.557;6.816;6.13
+Reference;;ZAF;Expenditure Share|Energy|Housing|D6;%;5.325;6.789;6.904;6.097;5.684
+Reference;;ZAF;Expenditure Share|Energy|Housing|D7;%;4.679;6.481;6.185;5.773;5.368
+Reference;;ZAF;Expenditure Share|Energy|Housing|D8;%;4.277;5.482;6.025;4.926;4.706
+Reference;;ZAF;Expenditure Share|Energy|Housing|D9;%;3.315;4.894;5.398;4.599;4.528
+Reference;;ZAF;Expenditure Share|Energy|Housing|D10;%;2.674;3.53;4.426;3.618;3.597
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D1;%;7.036;5.939;9.17;8.107;8.259
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D2;%;8.164;8.379;8.058;8.645;8.372
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D3;%;9.527;9.947;10.592;8.709;9.908
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D4;%;7.497;7.992;10.8;10.964;11.283
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D5;%;9.655;8.599;11.473;10.646;11.003
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D6;%;8.731;12.32;12.497;10.585;11.455
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D7;%;10.092;10.607;12.873;11.299;12.127
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D8;%;8.51;11.018;11.595;11.492;11.619
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D9;%;9.447;9.141;12.048;11.189;9.292
+Reference;;ZAF;Expenditure Share|Energy|Transportation|D10;%;9.99;7.152;9.449;9.171;6.477
+Reference;;ZAF;Income Share|Labour|D1;%;30.715;20.933;28.382;27.009;25.474
+Reference;;ZAF;Income Share|Labour|D2;%;37.828;20.19;18.503;23.099;22.714
+Reference;;ZAF;Income Share|Labour|D3;%;13.937;43.998;34.403;39.019;32.332
+Reference;;ZAF;Income Share|Labour|D4;%;37.757;30.276;40.037;41.813;45.972
+Reference;;ZAF;Income Share|Labour|D5;%;40.394;47.175;42.97;46.674;49.947
+Reference;;ZAF;Income Share|Labour|D6;%;38.637;36.173;51.508;55.706;54.317
+Reference;;ZAF;Income Share|Labour|D7;%;48.434;56.267;59.072;62.163;63.18
+Reference;;ZAF;Income Share|Labour|D8;%;60.642;70.073;70.594;72.362;72.966
+Reference;;ZAF;Income Share|Labour|D9;%;79.887;80.087;82.102;81.149;81.053
+Reference;;ZAF;Income Share|Labour|D10;%;82.84;85.345;84.639;85.251;84.108
+Reference;;ZAF;Income Share|Capital|D1;%;1.203;1.914;1.202;0.947;0.356
+Reference;;ZAF;Income Share|Capital|D2;%;0.804;0.6;0.543;0.167;0.175
+Reference;;ZAF;Income Share|Capital|D3;%;0.088;0.748;0.558;0.676;0.224
+Reference;;ZAF;Income Share|Capital|D4;%;0.803;0.977;0.459;0.349;0.176
+Reference;;ZAF;Income Share|Capital|D5;%;0.228;1.233;0.666;0.37;0.858
+Reference;;ZAF;Income Share|Capital|D6;%;0.87;0.729;0.606;0.345;0.455
+Reference;;ZAF;Income Share|Capital|D7;%;1.065;1.021;1.158;0.713;0.754
+Reference;;ZAF;Income Share|Capital|D8;%;1.816;0.881;0.999;0.868;0.918
+Reference;;ZAF;Income Share|Capital|D9;%;1.525;0.767;0.916;0.961;0.882
+Reference;;ZAF;Income Share|Capital|D10;%;3.588;3.735;2.873;3.346;4.004
+Reference;;ZAF;Income Share|Transfers|D1;%;49.582;69.913;54.179;49.928;52.493
+Reference;;ZAF;Income Share|Transfers|D2;%;44.564;74.158;73.465;63.456;64.045
+Reference;;ZAF;Income Share|Transfers|D3;%;82.39;31.298;50.858;47.527;52.145
+Reference;;ZAF;Income Share|Transfers|D4;%;52.155;61.276;48.351;46.288;41.025
+Reference;;ZAF;Income Share|Transfers|D5;%;50.782;42.649;48.375;43.459;39.73
+Reference;;ZAF;Income Share|Transfers|D6;%;52.887;57.228;40.82;32.302;32.233
+Reference;;ZAF;Income Share|Transfers|D7;%;41.655;34.907;31.275;26.377;24.751
+Reference;;ZAF;Income Share|Transfers|D8;%;28.364;22.137;20.933;17.214;14.724
+Reference;;ZAF;Income Share|Transfers|D9;%;10.569;11.635;11.054;9.507;7.609
+Reference;;ZAF;Income Share|Transfers|D10;%;1.961;2.733;3.205;3.376;1.942
+Reference;;ZAF;Income Share|Other|D1;%;18.5;7.24;16.237;22.116;21.676
+Reference;;ZAF;Income Share|Other|D2;%;16.804;5.051;7.489;13.278;13.066
+Reference;;ZAF;Income Share|Other|D3;%;3.585;23.956;14.18;12.778;15.299
+Reference;;ZAF;Income Share|Other|D4;%;9.285;7.471;11.153;11.549;12.827
+Reference;;ZAF;Income Share|Other|D5;%;8.597;8.943;7.989;9.496;9.465
+Reference;;ZAF;Income Share|Other|D6;%;7.605;5.871;7.066;11.647;12.995
+Reference;;ZAF;Income Share|Other|D7;%;8.847;7.805;8.496;10.747;11.315
+Reference;;ZAF;Income Share|Other|D8;%;9.179;6.909;7.474;9.556;11.393
+Reference;;ZAF;Income Share|Other|D9;%;8.02;7.512;5.928;8.384;10.456
+Reference;;ZAF;Income Share|Other|D10;%;11.612;8.186;9.282;8.026;9.947
+Reference;;ZAF;Savings Rate|D1;%;-45.835;-49.765;-40.883;-33.679;-37.525
+Reference;;ZAF;Savings Rate|D2;%;-12.758;-6.004;2.368;-0.062;-1.024
+Reference;;ZAF;Savings Rate|D3;%;6.153;7.231;9.633;5.335;8.492
+Reference;;ZAF;Savings Rate|D4;%;6.531;6.96;19.385;18.329;20.206
+Reference;;ZAF;Savings Rate|D5;%;11.419;19.978;25.588;24.198;23.502
+Reference;;ZAF;Savings Rate|D6;%;19.594;27.821;28.765;27.2;29.091
+Reference;;ZAF;Savings Rate|D7;%;21.409;31.921;34.931;34.115;34.354
+Reference;;ZAF;Savings Rate|D8;%;26.367;33.671;38.165;38.487;34.288
+Reference;;ZAF;Savings Rate|D9;%;25.917;42.076;36.688;36.847;33.188
+Reference;;ZAF;Savings Rate|D10;%;23.467;36.406;38.644;38.898;33.996
+Reference;;ZAF;Education|No Education|D1;%;17.36;13.56;10.54;10.53;8.08
+Reference;;ZAF;Education|No Education|D2;%;20.8;28.15;24.21;24.15;18.28
+Reference;;ZAF;Education|No Education|D3;%;37.81;24.61;19.08;19.06;18.61
+Reference;;ZAF;Education|No Education|D4;%;30;27.21;16.15;16.12;15.76
+Reference;;ZAF;Education|No Education|D5;%;25.68;25.13;18.34;18.4;18.08
+Reference;;ZAF;Education|No Education|D6;%;29.77;28.22;16.54;16.76;12.91
+Reference;;ZAF;Education|No Education|D7;%;22.88;21.9;15.55;15.33;11.89
+Reference;;ZAF;Education|No Education|D8;%;20.1;15.17;9.85;9.82;8.7
+Reference;;ZAF;Education|No Education|D9;%;9.05;11.22;6.39;6.17;5.07
+Reference;;ZAF;Education|No Education|D10;%;1.3;4.85;3.65;3.63;2.63
+Reference;;ZAF;Education|Primary Education|D1;%;23.63;20.03;17.97;17.95;15.35
+Reference;;ZAF;Education|Primary Education|D2;%;24.16;27.84;22.98;22.93;24.02
+Reference;;ZAF;Education|Primary Education|D3;%;29.78;27.23;20.29;20.26;18.81
+Reference;;ZAF;Education|Primary Education|D4;%;28.54;26.25;22.86;22.81;19.36
+Reference;;ZAF;Education|Primary Education|D5;%;30.06;23.92;19.46;19.4;17.51
+Reference;;ZAF;Education|Primary Education|D6;%;29.07;25.77;16.87;16.98;19.85
+Reference;;ZAF;Education|Primary Education|D7;%;24;24.28;17.2;17.2;17.07
+Reference;;ZAF;Education|Primary Education|D8;%;20.1;22;16.7;16.56;13.56
+Reference;;ZAF;Education|Primary Education|D9;%;11.15;15.58;11.34;11.34;8.62
+Reference;;ZAF;Education|Primary Education|D10;%;4.54;5.52;5.64;5.51;3.24
+Reference;;ZAF;Education|Secondary Education|D1;%;58.04;66.4;71.08;71.51;75.67
+Reference;;ZAF;Education|Secondary Education|D2;%;54.74;43.71;52.57;52.93;57.39
+Reference;;ZAF;Education|Secondary Education|D3;%;31.99;48.17;60.2;60.68;61.89
+Reference;;ZAF;Education|Secondary Education|D4;%;40.21;45.73;60.88;60.96;64.26
+Reference;;ZAF;Education|Secondary Education|D5;%;43.81;50.43;61.52;61.97;64.03
+Reference;;ZAF;Education|Secondary Education|D6;%;40.81;45.84;65.93;66.26;66.49
+Reference;;ZAF;Education|Secondary Education|D7;%;53.12;53.14;65.82;67.25;69.82
+Reference;;ZAF;Education|Secondary Education|D8;%;58.66;60.83;72.12;73.62;75.4
+Reference;;ZAF;Education|Secondary Education|D9;%;75.44;69.35;76.43;82.16;74.85
+Reference;;ZAF;Education|Secondary Education|D10;%;74.72;73.08;71.9;90.75;66.87
+Reference;;ZAF;Education|Tertiary Education|D1;%;0.8;0;0.4;0;0.9
+Reference;;ZAF;Education|Tertiary Education|D2;%;0.31;0;0.24;0;0.31
+Reference;;ZAF;Education|Tertiary Education|D3;%;0.28;0;0.44;0;0.7
+Reference;;ZAF;Education|Tertiary Education|D4;%;0.83;0.48;0;0.11;0.62
+Reference;;ZAF;Education|Tertiary Education|D5;%;0.3;0.35;0.45;0.22;0.38
+Reference;;ZAF;Education|Tertiary Education|D6;%;0.35;0.16;0.66;0;0.76
+Reference;;ZAF;Education|Tertiary Education|D7;%;0;0.68;1.21;0.22;1.22
+Reference;;ZAF;Education|Tertiary Education|D8;%;0.98;1.83;1.33;0;2.33
+Reference;;ZAF;Education|Tertiary Education|D9;%;4.2;3.69;5.62;0.33;11.46
+Reference;;ZAF;Education|Tertiary Education|D10;%;17.5;16.22;18.69;0.11;27.25
+Reference;;ZAF;Inequality Index|Gini;index;0.499;0.528;0.494;0.484;0.489
+Reference;;ZAF;Inequality Index|Absolute Poverty;%;48.7;42.2;37;35.8;37.6
+Reference;;ZAF;Household Size|D1;number;3.4;3.696;3.12;3.023;2.989
+Reference;;ZAF;Household Size|D2;number;3.71;3.615;3.293;2.908;2.816
+Reference;;ZAF;Household Size|D3;number;3.04;3.314;3.668;3.548;3.651
+Reference;;ZAF;Household Size|D4;number;3.82;4.622;4.095;3.89;3.668
+Reference;;ZAF;Household Size|D5;number;4.4;4.73;4.094;3.879;3.813
+Reference;;ZAF;Household Size|D6;number;4.21;4.79;4.782;4.447;4.536
+Reference;;ZAF;Household Size|D7;number;4.79;5.143;4.85;4.75;4.708
+Reference;;ZAF;Household Size|D8;number;4.65;5.083;5.128;4.722;4.511
+Reference;;ZAF;Household Size|D9;number;4.25;5.256;4.933;4.662;4.493
+Reference;;ZAF;Household Size|D10;number;3.77;4.544;4.455;4.488;3.931
+Reference;;ZAF;Expenditure Decile|D1;% of total expenditures in a given quantile;1.21;1.39;1.64;1.78;1.29
+Reference;;ZAF;Expenditure Decile|D2;% of total expenditures in a given quantile;1.92;2.27;2.51;2.62;2.01
+Reference;;ZAF;Expenditure Decile|D3;% of total expenditures in a given quantile;2.48;2.9;2.98;3.32;2.55
+Reference;;ZAF;Expenditure Decile|D4;% of total expenditures in a given quantile;3.07;3.54;3.77;4.05;3.14
+Reference;;ZAF;Expenditure Decile|D5;% of total expenditures in a given quantile;3.75;4.26;4.55;4.93;3.89
+Reference;;ZAF;Expenditure Decile|D6;% of total expenditures in a given quantile;4.68;5.16;5.57;6.05;4.87
+Reference;;ZAF;Expenditure Decile|D7;% of total expenditures in a given quantile;6.09;6.42;7.14;7.65;6.35
+Reference;;ZAF;Expenditure Decile|D8;% of total expenditures in a given quantile;8.96;8.96;9.77;10.35;9.18
+Reference;;ZAF;Expenditure Decile|D9;% of total expenditures in a given quantile;16.95;14.74;15.55;15.97;16.12
+Reference;;ZAF;Expenditure Decile|D10;% of total expenditures in a given quantile;50.9;50.37;46.52;43.27;50.62
+Reference;;ZAF;Income Decile|D1;% of total Income in a given quantile;0.63;0.81;0.9;0.9;0.81
+Reference;;ZAF;Income Decile|D2;% of total Income in a given quantile;1.68;3.62;2.63;2;1.7
+Reference;;ZAF;Income Decile|D3;% of total Income in a given quantile;2.62;0.83;2.07;2.77;2.44
+Reference;;ZAF;Income Decile|D4;% of total Income in a given quantile;1.96;3.27;3.54;3.71;3.24
+Reference;;ZAF;Income Decile|D5;% of total Income in a given quantile;3.23;4.03;4.66;4.6;4.35
+Reference;;ZAF;Income Decile|D6;% of total Income in a given quantile;4.38;5.46;5.72;5.79;5.02
+Reference;;ZAF;Income Decile|D7;% of total Income in a given quantile;5.41;6.9;8.07;7.64;6.87
+Reference;;ZAF;Income Decile|D8;% of total Income in a given quantile;7.93;9.76;9.68;10.42;9.74
+Reference;;ZAF;Income Decile|D9;% of total Income in a given quantile;13.17;15.26;15.79;15.61;15.32
+Reference;;ZAF;Income Decile|D10;% of total Income in a given quantile;58.99;50.07;46.95;46.56;50.52

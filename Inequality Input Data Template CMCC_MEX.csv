@@ -1,0 +1,181 @@
+MODEL;SCENARIO;REGION;VARIABLE;UNIT;2018
+Reference;;MEX;Expenditure Share|Food|D1;% of total HH expenditures;48.61363
+Reference;;MEX;Expenditure Share|Food|D2;% of total HH expenditures;46.33991
+Reference;;MEX;Expenditure Share|Food|D3;% of total HH expenditures;44.81786
+Reference;;MEX;Expenditure Share|Food|D4;% of total HH expenditures;43.11846
+Reference;;MEX;Expenditure Share|Food|D5;% of total HH expenditures;41.35033
+Reference;;MEX;Expenditure Share|Food|D6;% of total HH expenditures;39.94301
+Reference;;MEX;Expenditure Share|Food|D7;% of total HH expenditures;37.71511
+Reference;;MEX;Expenditure Share|Food|D8;% of total HH expenditures;35.63073
+Reference;;MEX;Expenditure Share|Food|D9;% of total HH expenditures;32.1745
+Reference;;MEX;Expenditure Share|Food|D10;% of total HH expenditures;24.91201
+Reference;;MEX;Expenditure Share|Food|non-Meat|D1;% of total HH expenditures;40.47276
+Reference;;MEX;Expenditure Share|Food|non-Meat|D2;% of total HH expenditures;37.67598
+Reference;;MEX;Expenditure Share|Food|non-Meat|D3;% of total HH expenditures;36.10907
+Reference;;MEX;Expenditure Share|Food|non-Meat|D4;% of total HH expenditures;34.56826
+Reference;;MEX;Expenditure Share|Food|non-Meat|D5;% of total HH expenditures;33.15346
+Reference;;MEX;Expenditure Share|Food|non-Meat|D6;% of total HH expenditures;32.30971
+Reference;;MEX;Expenditure Share|Food|non-Meat|D7;% of total HH expenditures;30.70925
+Reference;;MEX;Expenditure Share|Food|non-Meat|D8;% of total HH expenditures;29.53084
+Reference;;MEX;Expenditure Share|Food|non-Meat|D9;% of total HH expenditures;27.13775
+Reference;;MEX;Expenditure Share|Food|non-Meat|D10;% of total HH expenditures;22.13341
+Reference;;MEX;Expenditure Share|Food|Meat|D1;% of total HH expenditures;8.140862
+Reference;;MEX;Expenditure Share|Food|Meat|D2;% of total HH expenditures;8.663926
+Reference;;MEX;Expenditure Share|Food|Meat|D3;% of total HH expenditures;8.708781
+Reference;;MEX;Expenditure Share|Food|Meat|D4;% of total HH expenditures;8.550198
+Reference;;MEX;Expenditure Share|Food|Meat|D5;% of total HH expenditures;8.196866
+Reference;;MEX;Expenditure Share|Food|Meat|D6;% of total HH expenditures;7.6333
+Reference;;MEX;Expenditure Share|Food|Meat|D7;% of total HH expenditures;7.00586
+Reference;;MEX;Expenditure Share|Food|Meat|D8;% of total HH expenditures;6.099889
+Reference;;MEX;Expenditure Share|Food|Meat|D9;% of total HH expenditures;5.036751
+Reference;;MEX;Expenditure Share|Food|Meat|D10;% of total HH expenditures;2.778594
+Reference;;MEX;Expenditure Share|Energy|Housing|D1;% of total HH expenditures;15.28346
+Reference;;MEX;Expenditure Share|Energy|Housing|D2;% of total HH expenditures;15.99978
+Reference;;MEX;Expenditure Share|Energy|Housing|D3;% of total HH expenditures;15.8954
+Reference;;MEX;Expenditure Share|Energy|Housing|D4;% of total HH expenditures;15.81744
+Reference;;MEX;Expenditure Share|Energy|Housing|D5;% of total HH expenditures;15.66047
+Reference;;MEX;Expenditure Share|Energy|Housing|D6;% of total HH expenditures;16.168
+Reference;;MEX;Expenditure Share|Energy|Housing|D7;% of total HH expenditures;15.51215
+Reference;;MEX;Expenditure Share|Energy|Housing|D8;% of total HH expenditures;15.43772
+Reference;;MEX;Expenditure Share|Energy|Housing|D9;% of total HH expenditures;16.12704
+Reference;;MEX;Expenditure Share|Energy|Housing|D10;% of total HH expenditures;17.22573
+Reference;;MEX;Expenditure Share|Energy|Transportation|D1;% of total HH expenditures;12.98064
+Reference;;MEX;Expenditure Share|Energy|Transportation|D2;% of total HH expenditures;14.31845
+Reference;;MEX;Expenditure Share|Energy|Transportation|D3;% of total HH expenditures;15.76128
+Reference;;MEX;Expenditure Share|Energy|Transportation|D4;% of total HH expenditures;16.79258
+Reference;;MEX;Expenditure Share|Energy|Transportation|D5;% of total HH expenditures;17.91547
+Reference;;MEX;Expenditure Share|Energy|Transportation|D6;% of total HH expenditures;18.86156
+Reference;;MEX;Expenditure Share|Energy|Transportation|D7;% of total HH expenditures;19.99891
+Reference;;MEX;Expenditure Share|Energy|Transportation|D8;% of total HH expenditures;21.27153
+Reference;;MEX;Expenditure Share|Energy|Transportation|D9;% of total HH expenditures;21.95806
+Reference;;MEX;Expenditure Share|Energy|Transportation|D10;% of total HH expenditures;21.66144
+Reference;;MEX;Income Share|Labour|D1;% of total HH income;54.793929
+Reference;;MEX;Income Share|Labour|D2;% of total HH income;65.74173
+Reference;;MEX;Income Share|Labour|D3;% of total HH income;71.013329
+Reference;;MEX;Income Share|Labour|D4;% of total HH income;74.132165
+Reference;;MEX;Income Share|Labour|D5;% of total HH income;76.013523
+Reference;;MEX;Income Share|Labour|D6;% of total HH income;76.093861
+Reference;;MEX;Income Share|Labour|D7;% of total HH income;78.408138
+Reference;;MEX;Income Share|Labour|D8;% of total HH income;78.672423
+Reference;;MEX;Income Share|Labour|D9;% of total HH income;77.849795
+Reference;;MEX;Income Share|Labour|D10;% of total HH income;75.222299
+Reference;;MEX;Income Share|Capital|D1;% of total HH income;0.375961
+Reference;;MEX;Income Share|Capital|D2;% of total HH income;0.492926
+Reference;;MEX;Income Share|Capital|D3;% of total HH income;0.496162
+Reference;;MEX;Income Share|Capital|D4;% of total HH income;0.579524
+Reference;;MEX;Income Share|Capital|D5;% of total HH income;0.613495
+Reference;;MEX;Income Share|Capital|D6;% of total HH income;0.752876
+Reference;;MEX;Income Share|Capital|D7;% of total HH income;0.715477
+Reference;;MEX;Income Share|Capital|D8;% of total HH income;0.931529
+Reference;;MEX;Income Share|Capital|D9;% of total HH income;1.223394
+Reference;;MEX;Income Share|Capital|D10;% of total HH income;1.922563
+Reference;;MEX;Income Share|Transfers|D1;% of total HH income;44.566061
+Reference;;MEX;Income Share|Transfers|D2;% of total HH income;33.765344
+Reference;;MEX;Income Share|Transfers|D3;% of total HH income;28.490509
+Reference;;MEX;Income Share|Transfers|D4;% of total HH income;25.288311
+Reference;;MEX;Income Share|Transfers|D5;% of total HH income;23.372982
+Reference;;MEX;Income Share|Transfers|D6;% of total HH income;23.153262
+Reference;;MEX;Income Share|Transfers|D7;% of total HH income;20.876385
+Reference;;MEX;Income Share|Transfers|D8;% of total HH income;20.396048
+Reference;;MEX;Income Share|Transfers|D9;% of total HH income;20.926811
+Reference;;MEX;Income Share|Transfers|D10;% of total HH income;22.855138
+Reference;;MEX;Income Share|Other|D1;% of total HH income;-26.14407
+Reference;;MEX;Income Share|Other|D2;% of total HH income;11.49286
+Reference;;MEX;Income Share|Other|D3;% of total HH income;21.40326
+Reference;;MEX;Income Share|Other|D4;% of total HH income;26.60028
+Reference;;MEX;Income Share|Other|D5;% of total HH income;30.37886
+Reference;;MEX;Income Share|Other|D6;% of total HH income;33.81965
+Reference;;MEX;Income Share|Other|D7;% of total HH income;36.26363
+Reference;;MEX;Income Share|Other|D8;% of total HH income;38.98312
+Reference;;MEX;Income Share|Other|D9;% of total HH income;40.30507
+Reference;;MEX;Income Share|Other|D10;% of total HH income;45.53242
+Reference;;MEX;Savings Rate|D1;% of total HH income;
+Reference;;MEX;Savings Rate|D2;% of total HH income;
+Reference;;MEX;Savings Rate|D3;% of total HH income;
+Reference;;MEX;Savings Rate|D4;% of total HH income;
+Reference;;MEX;Savings Rate|D5;% of total HH income;
+Reference;;MEX;Savings Rate|D6;% of total HH income;
+Reference;;MEX;Savings Rate|D7;% of total HH income;
+Reference;;MEX;Savings Rate|D8;% of total HH income;
+Reference;;MEX;Savings Rate|D9;% of total HH income;
+Reference;;MEX;Savings Rate|D10;% of total HH income;
+Reference;;MEX;Wealth Share|D1;% of national wealth;-2.6
+Reference;;MEX;Wealth Share|D2;% of national wealth;0.13
+Reference;;MEX;Wealth Share|D3;% of national wealth;0.34
+Reference;;MEX;Wealth Share|D4;% of national wealth;0.69
+Reference;;MEX;Wealth Share|D5;% of national wealth;1.24
+Reference;;MEX;Wealth Share|D6;% of national wealth;1.95
+Reference;;MEX;Wealth Share|D7;% of national wealth;3.11
+Reference;;MEX;Wealth Share|D8;% of national wealth;5.36
+Reference;;MEX;Wealth Share|D9;% of national wealth;10.91
+Reference;;MEX;Wealth Share|D10;% of national wealth;78.86
+Reference;;MEX;Education|Under 15|D1;% of household heads in a given quantile;0.014128
+Reference;;MEX;Education|Under 15|D2;% of household heads in a given quantile;0
+Reference;;MEX;Education|Under 15|D3;% of household heads in a given quantile;0
+Reference;;MEX;Education|Under 15|D4;% of household heads in a given quantile;0
+Reference;;MEX;Education|Under 15|D5;% of household heads in a given quantile;0.021351
+Reference;;MEX;Education|Under 15|D6;% of household heads in a given quantile;0.006842
+Reference;;MEX;Education|Under 15|D7;% of household heads in a given quantile;0
+Reference;;MEX;Education|Under 15|D8;% of household heads in a given quantile;0
+Reference;;MEX;Education|Under 15|D9;% of household heads in a given quantile;0
+Reference;;MEX;Education|Under 15|D10;% of household heads in a given quantile;0
+Reference;;MEX;Education|No Education|D1;% of household heads in a given quantile;48.54697
+Reference;;MEX;Education|No Education|D2;% of household heads in a given quantile;34.599786
+Reference;;MEX;Education|No Education|D3;% of household heads in a given quantile;29.615224
+Reference;;MEX;Education|No Education|D4;% of household heads in a given quantile;24.926758
+Reference;;MEX;Education|No Education|D5;% of household heads in a given quantile;21.090104
+Reference;;MEX;Education|No Education|D6;% of household heads in a given quantile;18.491836
+Reference;;MEX;Education|No Education|D7;% of household heads in a given quantile;15.163415
+Reference;;MEX;Education|No Education|D8;% of household heads in a given quantile;11.060141
+Reference;;MEX;Education|No Education|D9;% of household heads in a given quantile;6.904062
+Reference;;MEX;Education|No Education|D10;% of household heads in a given quantile;3.428533
+Reference;;MEX;Education|Primary Education|D1;% of household heads in a given quantile;23.524721
+Reference;;MEX;Education|Primary Education|D2;% of household heads in a given quantile;25.292451
+Reference;;MEX;Education|Primary Education|D3;% of household heads in a given quantile;24.069413
+Reference;;MEX;Education|Primary Education|D4;% of household heads in a given quantile;24.690614
+Reference;;MEX;Education|Primary Education|D5;% of household heads in a given quantile;22.572985
+Reference;;MEX;Education|Primary Education|D6;% of household heads in a given quantile;21.880209
+Reference;;MEX;Education|Primary Education|D7;% of household heads in a given quantile;18.953402
+Reference;;MEX;Education|Primary Education|D8;% of household heads in a given quantile;16.298894
+Reference;;MEX;Education|Primary Education|D9;% of household heads in a given quantile;11.874582
+Reference;;MEX;Education|Primary Education|D10;% of household heads in a given quantile;5.131103
+Reference;;MEX;Education|Secondary Education|D1;% of household heads in a given quantile;26.407666
+Reference;;MEX;Education|Secondary Education|D2;% of household heads in a given quantile;37.159189
+Reference;;MEX;Education|Secondary Education|D3;% of household heads in a given quantile;42.951587
+Reference;;MEX;Education|Secondary Education|D4;% of household heads in a given quantile;45.683545
+Reference;;MEX;Education|Secondary Education|D5;% of household heads in a given quantile;49.633971
+Reference;;MEX;Education|Secondary Education|D6;% of household heads in a given quantile;51.199897
+Reference;;MEX;Education|Secondary Education|D7;% of household heads in a given quantile;53.139498
+Reference;;MEX;Education|Secondary Education|D8;% of household heads in a given quantile;53.77218
+Reference;;MEX;Education|Secondary Education|D9;% of household heads in a given quantile;49.313393
+Reference;;MEX;Education|Secondary Education|D10;% of household heads in a given quantile;32.364564
+Reference;;MEX;Education|Tertiary Education|D1;% of household heads in a given quantile;1.506515
+Reference;;MEX;Education|Tertiary Education|D2;% of household heads in a given quantile;2.948574
+Reference;;MEX;Education|Tertiary Education|D3;% of household heads in a given quantile;3.363776
+Reference;;MEX;Education|Tertiary Education|D4;% of household heads in a given quantile;4.699084
+Reference;;MEX;Education|Tertiary Education|D5;% of household heads in a given quantile;6.681588
+Reference;;MEX;Education|Tertiary Education|D6;% of household heads in a given quantile;8.421216
+Reference;;MEX;Education|Tertiary Education|D7;% of household heads in a given quantile;12.743686
+Reference;;MEX;Education|Tertiary Education|D8;% of household heads in a given quantile;18.868785
+Reference;;MEX;Education|Tertiary Education|D9;% of household heads in a given quantile;31.907963
+Reference;;MEX;Education|Tertiary Education|D10;% of household heads in a given quantile;59.0758
+Reference;;MEX;Expenditure Decile|D1;% of total expenditures in a given quantile;3.839300654
+Reference;;MEX;Expenditure Decile|D2;% of total expenditures in a given quantile;4.951418948
+Reference;;MEX;Expenditure Decile|D3;% of total expenditures in a given quantile;5.713189814
+Reference;;MEX;Expenditure Decile|D4;% of total expenditures in a given quantile;6.472156196
+Reference;;MEX;Expenditure Decile|D5;% of total expenditures in a given quantile;7.305066762
+Reference;;MEX;Expenditure Decile|D6;% of total expenditures in a given quantile;8.2377225
+Reference;;MEX;Expenditure Decile|D7;% of total expenditures in a given quantile;9.538107265
+Reference;;MEX;Expenditure Decile|D8;% of total expenditures in a given quantile;11.39843241
+Reference;;MEX;Expenditure Decile|D9;% of total expenditures in a given quantile;15.0946193
+Reference;;MEX;Expenditure Decile|D10;% of total expenditures in a given quantile;27.44998615
+Reference;;MEX;Income Decile|D1;% of total Income in a given quantile;2.048819645
+Reference;;MEX;Income Decile|D2;% of total Income in a given quantile;3.477494369
+Reference;;MEX;Income Decile|D3;% of total Income in a given quantile;4.512860535
+Reference;;MEX;Income Decile|D4;% of total Income in a given quantile;5.467684495
+Reference;;MEX;Income Decile|D5;% of total Income in a given quantile;6.502859465
+Reference;;MEX;Income Decile|D6;% of total Income in a given quantile;7.708627133
+Reference;;MEX;Income Decile|D7;% of total Income in a given quantile;9.274814107
+Reference;;MEX;Income Decile|D8;% of total Income in a given quantile;11.58320617
+Reference;;MEX;Income Decile|D9;% of total Income in a given quantile;15.67422798
+Reference;;MEX;Income Decile|D10;% of total Income in a given quantile;33.7494061

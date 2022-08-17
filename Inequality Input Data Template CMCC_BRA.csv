@@ -1,0 +1,181 @@
+MODEL;SCENARIO;REGION;VARIABLE;UNIT;2010
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D1;% of total HH expenditures;28.08740695
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D2;% of total HH expenditures;25.87388589
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D3;% of total HH expenditures;22.82059896
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D4;% of total HH expenditures;21.40185174
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D5;% of total HH expenditures;19.26201454
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D6;% of total HH expenditures;17.66069679
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D7;% of total HH expenditures;15.30402105
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D8;% of total HH expenditures;13.98893622
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D9;% of total HH expenditures;11.28887363
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|D10;% of total HH expenditures;7.166066096
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D1;% of total HH expenditures;25.62807805
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D2;% of total HH expenditures;23.39584377
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D3;% of total HH expenditures;20.60921219
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D4;% of total HH expenditures;19.16985066
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D5;% of total HH expenditures;17.20339166
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D6;% of total HH expenditures;15.78199801
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D7;% of total HH expenditures;13.65352656
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D8;% of total HH expenditures;12.42783644
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D9;% of total HH expenditures;10.06803726
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|non-Meat|D10;% of total HH expenditures;6.514145091
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D1;% of total HH expenditures;2.459328897
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D2;% of total HH expenditures;2.478042123
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D3;% of total HH expenditures;2.21138677
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D4;% of total HH expenditures;2.23200108
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D5;% of total HH expenditures;2.058622881
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D6;% of total HH expenditures;1.878698776
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D7;% of total HH expenditures;1.650494491
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D8;% of total HH expenditures;1.561099777
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D9;% of total HH expenditures;1.220836368
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Food|Meat|D10;% of total HH expenditures;0.651921005
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D1;% of total HH expenditures;6.14307201
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D2;% of total HH expenditures;6.15808115
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D3;% of total HH expenditures;5.904614738
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D4;% of total HH expenditures;5.886450878
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D5;% of total HH expenditures;5.338878859
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D6;% of total HH expenditures;4.856540543
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D7;% of total HH expenditures;4.555117847
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D8;% of total HH expenditures;3.897514983
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D9;% of total HH expenditures;3.253788369
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Housing|D10;% of total HH expenditures;2.244407546
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D1;% of total HH expenditures;1.502209119
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D2;% of total HH expenditures;1.674135177
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D3;% of total HH expenditures;2.09361866
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D4;% of total HH expenditures;2.361319458
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D5;% of total HH expenditures;2.688697012
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D6;% of total HH expenditures;3.161950249
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D7;% of total HH expenditures;3.889912256
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D8;% of total HH expenditures;4.608951339
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D9;% of total HH expenditures;4.731608165
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Share|Energy|Transportation|D10;% of total HH expenditures;4.514895022
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D1;% of total HH income;48.07341421
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D2;% of total HH income;53.44938295
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D3;% of total HH income;53.44450336
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D4;% of total HH income;55.68301277
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D5;% of total HH income;57.65312676
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D6;% of total HH income;60.33340913
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D7;% of total HH income;62.53770823
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D8;% of total HH income;63.83835656
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D9;% of total HH income;64.15655825
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Labour|D10;% of total HH income;61.60240713
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D1;% of total HH income;0.665197739
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D2;% of total HH income;1.042463253
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D3;% of total HH income;1.075835228
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D4;% of total HH income;1.344537718
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D5;% of total HH income;1.827576793
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D6;% of total HH income;2.191399289
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D7;% of total HH income;2.52814106
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D8;% of total HH income;3.266002885
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D9;% of total HH income;4.867592841
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Capital|D10;% of total HH income;10.53551467
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D1;% of total HH income;18.14641265
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D2;% of total HH income;19.54352067
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D3;% of total HH income;20.99373345
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D4;% of total HH income;20.32907393
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D5;% of total HH income;18.83396197
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D6;% of total HH income;17.30893535
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D7;% of total HH income;15.60860811
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D8;% of total HH income;14.68995617
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D9;% of total HH income;14.7086532
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Transfers|D10;% of total HH income;14.22263825
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D1;% of total HH income;33.11497541
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D2;% of total HH income;25.96463313
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D3;% of total HH income;24.48592797
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D4;% of total HH income;22.64337558
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D5;% of total HH income;21.68533447
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D6;% of total HH income;20.16625623
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D7;% of total HH income;19.32554259
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D8;% of total HH income;18.20568439
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D9;% of total HH income;16.26719571
+Reference;Brazil Household survey 2008 [name];BRA;Income Share|Other|D10;% of total HH income;13.63943995
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D1;% of total HH income;-52.00567099
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D2;% of total HH income;-11.11811299
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D3;% of total HH income;-1.43489866
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D4;% of total HH income;7.727292657
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D5;% of total HH income;9.168397313
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D6;% of total HH income;12.8578129
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D7;% of total HH income;15.76876897
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D8;% of total HH income;18.60834147
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D9;% of total HH income;22.49636735
+Reference;Brazil Household survey 2008 [name];BRA;Savings Rate|D10;% of total HH income;39.91169657
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D1;% of total national wealth;0.893282226
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D2;% of total national wealth;1.5082641
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D3;% of total national wealth;1.845343309
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D4;% of total national wealth;2.445144691
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D5;% of total national wealth;3.076318184
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D6;% of total national wealth;4.228943024
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D7;% of total national wealth;5.522266565
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D8;% of total national wealth;10.66822526
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D9;% of total national wealth;17.02451848
+Reference;Brazil Household survey 2008 [name];BRA;Wealth Share|D10;% of total national wealth;52.78769416
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D1;% of household heads in a given quantile;0.046950804
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D2;% of household heads in a given quantile;0.00867819
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D3;% of household heads in a given quantile;0.015495277
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D4;% of household heads in a given quantile;0
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D5;% of household heads in a given quantile;0.00655542
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D6;% of household heads in a given quantile;0.006782595
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D7;% of household heads in a given quantile;0
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D8;% of household heads in a given quantile;0
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D9;% of household heads in a given quantile;0
+Reference;Brazil Household survey 2008 [name];BRA;Education|Under 15|D10;% of household heads in a given quantile;0
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D1;% of household heads in a given quantile;22.80063078
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D2;% of household heads in a given quantile;20.96682404
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D3;% of household heads in a given quantile;19.98940587
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D4;% of household heads in a given quantile;17.92142484
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D5;% of household heads in a given quantile;13.15555379
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D6;% of household heads in a given quantile;10.717733
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D7;% of household heads in a given quantile;7.528912948
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D8;% of household heads in a given quantile;5.245728914
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D9;% of household heads in a given quantile;2.860427024
+Reference;Brazil Household survey 2008 [name];BRA;Education|No Education|D10;% of household heads in a given quantile;1.067662749
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D1;% of household heads in a given quantile;40.38059986
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D2;% of household heads in a given quantile;38.34578655
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D3;% of household heads in a given quantile;35.44123605
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D4;% of household heads in a given quantile;36.04340447
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D5;% of household heads in a given quantile;35.32411069
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D6;% of household heads in a given quantile;31.79946313
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D7;% of household heads in a given quantile;28.82054122
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D8;% of household heads in a given quantile;25.62716983
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D9;% of household heads in a given quantile;16.74512034
+Reference;Brazil Household survey 2008 [name];BRA;Education|Primary Education|D10;% of household heads in a given quantile;8.222306219
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D1;% of household heads in a given quantile;35.436252
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D2;% of household heads in a given quantile;39.5374922
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D3;% of household heads in a given quantile;42.88339969
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D4;% of household heads in a given quantile;43.97343669
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D5;% of household heads in a given quantile;48.89565846
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D6;% of household heads in a given quantile;54.12518919
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D7;% of household heads in a given quantile;57.0170013
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D8;% of household heads in a given quantile;58.28426377
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D9;% of household heads in a given quantile;54.3756345
+Reference;Brazil Household survey 2008 [name];BRA;Education|Secondary Education|D10;% of household heads in a given quantile;34.21121617
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D1;% of household heads in a given quantile;1.335566544
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D2;% of household heads in a given quantile;1.141219025
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D3;% of household heads in a given quantile;1.670463108
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D4;% of household heads in a given quantile;2.061734006
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D5;% of household heads in a given quantile;2.618121644
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D6;% of household heads in a given quantile;3.350832086
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D7;% of household heads in a given quantile;6.633544535
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D8;% of household heads in a given quantile;10.84283749
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D9;% of household heads in a given quantile;26.01881814
+Reference;Brazil Household survey 2008 [name];BRA;Education|Tertiary Education|D10;% of household heads in a given quantile;56.49881486
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D1;% of total expenditures;3.050842488
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D2;% of total expenditures;3.914095203
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D3;% of total expenditures;4.665537506
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D4;% of total expenditures;5.240883052
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D5;% of total expenditures;6.254719854
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D6;% of total expenditures;7.475662967
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D7;% of total expenditures;9.125588887
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D8;% of total expenditures;11.83168613
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D9;% of total expenditures;16.31422555
+Reference;Brazil Household survey 2008 [name];BRA;Expenditure Decile|D10;% of total expenditures;32.12675837
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D1;% of total income;1.530238538
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D2;% of total income;2.685626831
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D3;% of total income;3.5068196
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D4;% of total income;4.330423244
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D5;% of total income;5.250129613
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D6;% of total income;6.540642282
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D7;% of total income;8.260130175
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D8;% of total income;11.08321815
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D9;% of total income;16.04883616
+Reference;Brazil Household survey 2008 [name];BRA;Income Decile|D10;% of total income;40.7639354

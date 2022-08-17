@@ -1,0 +1,161 @@
+MODEL;SCENARIO;REGION;VARIABLE;UNIT;2011
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D1;% of total HH expenditures;18.87897
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D2;% of total HH expenditures;19.29497
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D3;% of total HH expenditures;18.62255
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D4;% of total HH expenditures;17.84819
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D5;% of total HH expenditures;17.85163
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D6;% of total HH expenditures;17.2076
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D7;% of total HH expenditures;16.28321
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D8;% of total HH expenditures;15.48244
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D9;% of total HH expenditures;14.37729
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|D10;% of total HH expenditures;11.35934
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D1;% of total HH expenditures;14.98162
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D2;% of total HH expenditures;15.07584
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D3;% of total HH expenditures;14.48897
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D4;% of total HH expenditures;14.06322
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D5;% of total HH expenditures;13.89645
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D6;% of total HH expenditures;13.30496
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D7;% of total HH expenditures;12.8484
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D8;% of total HH expenditures;12.21081
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D9;% of total HH expenditures;11.32104
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|non-Meat|D10;% of total HH expenditures;9.11404
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D1;% of total HH expenditures;3.89735
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D2;% of total HH expenditures;4.21913
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D3;% of total HH expenditures;4.13358
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D4;% of total HH expenditures;3.78497
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D5;% of total HH expenditures;3.95518
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D6;% of total HH expenditures;3.90264
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D7;% of total HH expenditures;3.43481
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D8;% of total HH expenditures;3.27163
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D9;% of total HH expenditures;3.05625
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Food|Meat|D10;% of total HH expenditures;2.2453
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D1;% of total HH expenditures;5.09015
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D2;% of total HH expenditures;5.87225
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D3;% of total HH expenditures;5.36125
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D4;% of total HH expenditures;4.98198
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D5;% of total HH expenditures;4.79734
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D6;% of total HH expenditures;4.52468
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D7;% of total HH expenditures;4.34335
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D8;% of total HH expenditures;3.61288
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D9;% of total HH expenditures;3.71211
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Housing|D10;% of total HH expenditures;3.03029
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D1;% of total HH expenditures;7.50392
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D2;% of total HH expenditures;6.3499
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D3;% of total HH expenditures;6.01677
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D4;% of total HH expenditures;6.20716
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D5;% of total HH expenditures;6.16007
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D6;% of total HH expenditures;6.2278
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D7;% of total HH expenditures;6.15706
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D8;% of total HH expenditures;5.97036
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D9;% of total HH expenditures;5.63009
+Reference;France Household survey 2011 [BDF];FRA;Expenditure Share|Energy|Transportation|D10;% of total HH expenditures;4.37955
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D1;% of total HH income;20.79467
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D2;% of total HH income;33.41155
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D3;% of total HH income;39.35273
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D4;% of total HH income;47.92088
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D5;% of total HH income;53.44917
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D6;% of total HH income;57.71708
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D7;% of total HH income;58.34338
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D8;% of total HH income;60.62354
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D9;% of total HH income;60.15552
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Labour|D10;% of total HH income;66.88929
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D1;% of total HH income;1.87131
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D2;% of total HH income;1.07158
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D3;% of total HH income;1.49286
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D4;% of total HH income;1.60001
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D5;% of total HH income;1.93828
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D6;% of total HH income;2.09002
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D7;% of total HH income;2.45135
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D8;% of total HH income;3.01012
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D9;% of total HH income;3.46907
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Capital|D10;% of total HH income;4.91391
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D1;% of total HH income;77.33401
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D2;% of total HH income;65.51687
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D3;% of total HH income;59.15441
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D4;% of total HH income;50.47911
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D5;% of total HH income;44.61255
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D6;% of total HH income;40.1929
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D7;% of total HH income;39.20527
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D8;% of total HH income;36.36634
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D9;% of total HH income;36.37541
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Transfers|D10;% of total HH income;28.19681
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D1;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D2;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D3;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D4;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D5;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D6;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D7;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D8;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D9;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Income Share|Other|D10;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D1;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D2;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D3;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D4;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D5;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D6;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D7;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D8;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D9;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Savings Rate|D10;% of total HH income;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D1;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D2;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D3;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D4;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D5;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D6;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D7;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D8;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D9;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Wealth Share|D10;% of total national wealth;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D1;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D2;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D3;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D4;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D5;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D6;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D7;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D8;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D9;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|Under 15|D10;% of household heads in a given quantile;0
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D1;% of household heads in a given quantile;28.46331248
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D2;% of household heads in a given quantile;34.97921398
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D3;% of household heads in a given quantile;30.48404033
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D4;% of household heads in a given quantile;27.48446709
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D5;% of household heads in a given quantile;21.82390279
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D6;% of household heads in a given quantile;13.58470956
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D7;% of household heads in a given quantile;11.37974325
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D8;% of household heads in a given quantile;9.223084991
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D9;% of household heads in a given quantile;4.029674759
+Reference;France Household survey 2011 [BDF];FRA;Education|No Education|D10;% of household heads in a given quantile;1.904282263
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D1;% of household heads in a given quantile;13.46182094
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D2;% of household heads in a given quantile;19.84776347
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D3;% of household heads in a given quantile;22.66853567
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D4;% of household heads in a given quantile;19.60171451
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D5;% of household heads in a given quantile;22.32782454
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D6;% of household heads in a given quantile;17.82152478
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D7;% of household heads in a given quantile;16.00707176
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D8;% of household heads in a given quantile;13.52216197
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D9;% of household heads in a given quantile;11.72926906
+Reference;France Household survey 2011 [BDF];FRA;Education|Primary Education|D10;% of household heads in a given quantile;8.582813158
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D1;% of household heads in a given quantile;39.68844554
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D2;% of household heads in a given quantile;33.46103464
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D3;% of household heads in a given quantile;36.03713013
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D4;% of household heads in a given quantile;39.40906575
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D5;% of household heads in a given quantile;40.52075875
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D6;% of household heads in a given quantile;46.0647203
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D7;% of household heads in a given quantile;43.37589229
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D8;% of household heads in a given quantile;40.49274307
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D9;% of household heads in a given quantile;36.76472907
+Reference;France Household survey 2011 [BDF];FRA;Education|Secondary Education|D10;% of household heads in a given quantile;24.34755852
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D1;% of household heads in a given quantile;18.38642104
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D2;% of household heads in a given quantile;11.71198791
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D3;% of household heads in a given quantile;10.81029387
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D4;% of household heads in a given quantile;13.50475265
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D5;% of household heads in a given quantile;15.32751391
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D6;% of household heads in a given quantile;22.52904535
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D7;% of household heads in a given quantile;29.2372927
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D8;% of household heads in a given quantile;36.76200996
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D9;% of household heads in a given quantile;47.47632711
+Reference;France Household survey 2011 [BDF];FRA;Education|Tertiary Education|D10;% of household heads in a given quantile;65.16534606
