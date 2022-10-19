@@ -89,16 +89,16 @@ year,iso3,var,element,dist,value
 2010,BRA,wealth_share,,D8,10.66822526
 2010,BRA,wealth_share,,D9,17.02451848
 2010,BRA,wealth_share,,D10,52.78769416
-2010,BRA,educat,Under 15,D15,0.046950804
-2010,BRA,educat,Under 15,D15,0.00867819
-2010,BRA,educat,Under 15,D15,0.015495277
-2010,BRA,educat,Under 15,D15,0
-2010,BRA,educat,Under 15,D15,0.00655542
-2010,BRA,educat,Under 15,D15,0.006782595
-2010,BRA,educat,Under 15,D15,0
-2010,BRA,educat,Under 15,D15,0
-2010,BRA,educat,Under 15,D15,0
-2010,BRA,educat,Under 15,D15,0
+2010,BRA,educat,Under 15,D1,0.046950804
+2010,BRA,educat,Under 15,D2,0.00867819
+2010,BRA,educat,Under 15,D3,0.015495277
+2010,BRA,educat,Under 15,D4,0
+2010,BRA,educat,Under 15,D5,0.00655542
+2010,BRA,educat,Under 15,D6,0.006782595
+2010,BRA,educat,Under 15,D7,0
+2010,BRA,educat,Under 15,D8,0
+2010,BRA,educat,Under 15,D9,0
+2010,BRA,educat,Under 15,D10,0
 2010,BRA,educat,No education,D1,22.80063078
 2010,BRA,educat,No education,D2,20.96682404
 2010,BRA,educat,No education,D3,19.98940587
@@ -281,36 +281,36 @@ year,iso3,var,element,dist,value
 2013,CHN,educat,Tertiary Education,D10,38.01
 2013,CHN,inequality_index,gini,0,0.419
 2013,CHN,inequality_index,absolute_poverty,0,8.2
-2013,CHN,household_size,,D3,4.269231
-2013,CHN,household_size,,D4,3.666667
-2013,CHN,household_size,,D5,3.521739
-2013,CHN,household_size,,D6,3.956522
-2013,CHN,household_size,,D7,3
-2013,CHN,household_size,,D8,3.375
-2013,CHN,household_size,,D9,3.347826
-2013,CHN,household_size,,D10,3.391304
-2013,CHN,household_size,,D1,3.25
-2013,CHN,household_size,,D2,3.318182
-2013,CHN,expenditure_decile,,D3,2.159872798
-2013,CHN,expenditure_decile,,D4,3.593593109
-2013,CHN,expenditure_decile,,D5,4.662300741
-2013,CHN,expenditure_decile,,D6,5.728602827
-2013,CHN,expenditure_decile,,D7,6.883355855
-2013,CHN,expenditure_decile,,D8,8.270110424
-2013,CHN,expenditure_decile,,D9,9.956842554
-2013,CHN,expenditure_decile,,D10,12.36031107
-2013,CHN,expenditure_decile,,D1,16.30171226
-2013,CHN,expenditure_decile,,D2,30.08329836
-2013,CHN,income_decile,,D3,1.620543743
-2013,CHN,income_decile,,D4,3.156235499
-2013,CHN,income_decile,,D5,4.366060121
-2013,CHN,income_decile,,D6,5.546429516
-2013,CHN,income_decile,,D7,6.879480806
-2013,CHN,income_decile,,D8,8.449302815
-2013,CHN,income_decile,,D9,10.27925905
-2013,CHN,income_decile,,D10,12.77903598
-2013,CHN,income_decile,,D1,16.83160301
-2013,CHN,income_decile,,D2,30.09204945
+2013,CHN,household_size,,D1,4.269231
+2013,CHN,household_size,,D2,3.666667
+2013,CHN,household_size,,D3,3.521739
+2013,CHN,household_size,,D4,3.956522
+2013,CHN,household_size,,D5,3
+2013,CHN,household_size,,D6,3.375
+2013,CHN,household_size,,D7,3.347826
+2013,CHN,household_size,,D8,3.391304
+2013,CHN,household_size,,D9,3.25
+2013,CHN,household_size,,D10,3.318182
+2013,CHN,expenditure_decile,,D1,2.159872798
+2013,CHN,expenditure_decile,,D2,3.593593109
+2013,CHN,expenditure_decile,,D3,4.662300741
+2013,CHN,expenditure_decile,,D4,5.728602827
+2013,CHN,expenditure_decile,,D5,6.883355855
+2013,CHN,expenditure_decile,,D6,8.270110424
+2013,CHN,expenditure_decile,,D7,9.956842554
+2013,CHN,expenditure_decile,,D8,12.36031107
+2013,CHN,expenditure_decile,,D9,16.30171226
+2013,CHN,expenditure_decile,,D10,30.08329836
+2013,CHN,income_decile,,D1,1.620543743
+2013,CHN,income_decile,,D2,3.156235499
+2013,CHN,income_decile,,D3,4.366060121
+2013,CHN,income_decile,,D4,5.546429516
+2013,CHN,income_decile,,D5,6.879480806
+2013,CHN,income_decile,,D6,8.449302815
+2013,CHN,income_decile,,D7,10.27925905
+2013,CHN,income_decile,,D8,12.77903598
+2013,CHN,income_decile,,D9,16.83160301
+2013,CHN,income_decile,,D10,30.09204945
 2010,BEL,educat,,D1,1.309328969
 2010,BEL,educat,,D10,2.165087957
 2010,BEL,educat,,D2,1.687116564
@@ -361,16 +361,16 @@ year,iso3,var,element,dist,value
 2010,BEL,emissions_per_capita,,D7,10.25590164
 2010,BEL,emissions_per_capita,,D8,10.89177049
 2010,BEL,emissions_per_capita,,D9,12.02699391
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,BEL,expenditure_decile,,D1,5.897179305
 2010,BEL,expenditure_decile,,D10,14.35498047
 2010,BEL,expenditure_decile,,D2,6.480822988
@@ -538,16 +538,16 @@ year,iso3,var,element,dist,value
 2010,BGR,emissions_per_capita,,D7,4.079966699
 2010,BGR,emissions_per_capita,,D8,4.431649057
 2010,BGR,emissions_per_capita,,D9,5.045642269
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,BGR,expenditure_decile,,D1,5.493772835
 2010,BGR,expenditure_decile,,D10,17.89138893
 2010,BGR,expenditure_decile,,D2,5.668630658
@@ -718,16 +718,16 @@ year,iso3,var,element,dist,value
 2010,CYP,emissions_per_capita,,D7,12.63829023
 2010,CYP,emissions_per_capita,,D8,13.64822092
 2010,CYP,emissions_per_capita,,D9,15.85233531
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,CYP,expenditure_decile,,D1,4.135807683
 2010,CYP,expenditure_decile,,D10,16.07738852
 2010,CYP,expenditure_decile,,D2,5.480075473
@@ -880,16 +880,16 @@ year,iso3,var,element,dist,value
 2010,CZE,emissions_per_capita,,D7,
 2010,CZE,emissions_per_capita,,D8,
 2010,CZE,emissions_per_capita,,D9,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,CZE,expenditure_decile,,D1,5.007897521
 2010,CZE,expenditure_decile,,D10,15.87034317
 2010,CZE,expenditure_decile,,D2,6.446748803
@@ -1049,16 +1049,16 @@ year,iso3,var,element,dist,value
 2010,DEU,emissions_per_capita,,D7,7.919011119
 2010,DEU,emissions_per_capita,,D8,8.838802081
 2010,DEU,emissions_per_capita,,D9,10.20561509
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,DEU,expenditure_decile,,D1,4.427544875
 2010,DEU,expenditure_decile,,D10,19.15853478
 2010,DEU,expenditure_decile,,D2,5.719109047
@@ -1199,16 +1199,16 @@ year,iso3,var,element,dist,value
 2010,DNK,emissions_per_capita,,D7,8.607442322
 2010,DNK,emissions_per_capita,,D8,8.725349668
 2010,DNK,emissions_per_capita,,D9,9.916000051
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,DNK,expenditure_decile,,D1,5.432019699
 2010,DNK,expenditure_decile,,D10,16.03486423
 2010,DNK,expenditure_decile,,D2,6.413521635
@@ -1378,16 +1378,16 @@ year,iso3,var,element,dist,value
 2010,ESP,emissions_per_capita,,D7,5.521149862
 2010,ESP,emissions_per_capita,,D8,5.540835807
 2010,ESP,emissions_per_capita,,D9,6.844774162
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,ESP,expenditure_decile,,D1,6.173660539
 2010,ESP,expenditure_decile,,D10,16.63096508
 2010,ESP,expenditure_decile,,D2,7.126207812
@@ -1562,16 +1562,16 @@ year,iso3,var,element,dist,value
 2010,EST,emissions_per_capita,,D7,7.113645103
 2010,EST,emissions_per_capita,,D8,8.296929556
 2010,EST,emissions_per_capita,,D9,9.470220039
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,EST,expenditure_decile,,D1,5.813738843
 2010,EST,expenditure_decile,,D10,19.54140915
 2010,EST,expenditure_decile,,D2,6.458848109
@@ -1712,16 +1712,16 @@ year,iso3,var,element,dist,value
 2010,FIN,emissions_per_capita,,D7,8.931789251
 2010,FIN,emissions_per_capita,,D8,9.538907745
 2010,FIN,emissions_per_capita,,D9,10.78169691
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,FIN,expenditure_decile,,D1,5.310849456
 2010,FIN,expenditure_decile,,D10,17.45740424
 2010,FIN,expenditure_decile,,D2,5.217721642
@@ -1842,16 +1842,16 @@ year,iso3,var,element,dist,value
 2010,FIN,wealth_share,,D7,
 2010,FIN,wealth_share,,D8,
 2010,FIN,wealth_share,,D9,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,GBR,educat,,D1,100
 2010,GBR,educat,,D10,100
 2010,GBR,educat,,D2,100
@@ -1872,16 +1872,16 @@ year,iso3,var,element,dist,value
 2010,GBR,emissions_per_capita,,D7,8.700109201
 2010,GBR,emissions_per_capita,,D8,10.20761022
 2010,GBR,emissions_per_capita,,D9,12.11945104
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,GBR,expenditure_decile,,D1,6.677071682
 2010,GBR,expenditure_decile,,D10,17.91961866
 2010,GBR,expenditure_decile,,D2,6.500786816
@@ -2062,16 +2062,16 @@ year,iso3,var,element,dist,value
 2010,GRC,emissions_per_capita,,D7,13.46516168
 2010,GRC,emissions_per_capita,,D8,16.28885514
 2010,GRC,emissions_per_capita,,D9,18.94809533
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,GRC,expenditure_decile,,D1,5.703053473
 2010,GRC,expenditure_decile,,D10,20.07283209
 2010,GRC,expenditure_decile,,D2,6.375490193
@@ -2242,16 +2242,16 @@ year,iso3,var,element,dist,value
 2010,HRV,emissions_per_capita,,D7,4.62941477
 2010,HRV,emissions_per_capita,,D8,5.644545694
 2010,HRV,emissions_per_capita,,D9,5.690449673
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,HRV,expenditure_decile,,D1,5.831515867
 2010,HRV,expenditure_decile,,D10,15.94942412
 2010,HRV,expenditure_decile,,D2,6.275298212
@@ -2422,16 +2422,16 @@ year,iso3,var,element,dist,value
 2010,HUN,emissions_per_capita,,D7,4.539480275
 2010,HUN,emissions_per_capita,,D8,5.398604164
 2010,HUN,emissions_per_capita,,D9,6.034641042
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,HUN,expenditure_decile,,D1,6.445336446
 2010,HUN,expenditure_decile,,D10,16.36772726
 2010,HUN,expenditure_decile,,D2,7.127269216
@@ -2612,16 +2612,16 @@ year,iso3,var,element,dist,value
 2010,IRL,emissions_per_capita,,D7,8.539345938
 2010,IRL,emissions_per_capita,,D8,10.90749024
 2010,IRL,emissions_per_capita,,D9,11.2882032
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,IRL,expenditure_decile,,D1,7.033273721
 2010,IRL,expenditure_decile,,D10,15.31838022
 2010,IRL,expenditure_decile,,D2,5.791536854
@@ -2792,16 +2792,16 @@ year,iso3,var,element,dist,value
 2010,ITA,emissions_per_capita,,D7,6.704137186
 2010,ITA,emissions_per_capita,,D8,8.180542803
 2010,ITA,emissions_per_capita,,D9,10.57722326
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,ITA,expenditure_decile,,D1,3.93478548
 2010,ITA,expenditure_decile,,D10,22.51329252
 2010,ITA,expenditure_decile,,D2,5.367088498
@@ -2972,16 +2972,16 @@ year,iso3,var,element,dist,value
 2010,LTU,emissions_per_capita,,D7,3.636024786
 2010,LTU,emissions_per_capita,,D8,3.851701326
 2010,LTU,emissions_per_capita,,D9,5.118564041
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,LTU,expenditure_decile,,D1,6.050184557
 2010,LTU,expenditure_decile,,D10,16.17700082
 2010,LTU,expenditure_decile,,D2,6.269322726
@@ -3152,16 +3152,16 @@ year,iso3,var,element,dist,value
 2010,LUX,emissions_per_capita,,D7,25.21502994
 2010,LUX,emissions_per_capita,,D8,27.20403938
 2010,LUX,emissions_per_capita,,D9,32.02703862
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,LUX,expenditure_decile,,D1,4.418011774
 2010,LUX,expenditure_decile,,D10,19.53620861
 2010,LUX,expenditure_decile,,D2,6.018358034
@@ -3329,16 +3329,16 @@ year,iso3,var,element,dist,value
 2010,LVA,emissions_per_capita,,D7,4.244890783
 2010,LVA,emissions_per_capita,,D8,4.787492134
 2010,LVA,emissions_per_capita,,D9,5.45447018
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,LVA,expenditure_decile,,D1,6.133236449
 2010,LVA,expenditure_decile,,D10,19.87541611
 2010,LVA,expenditure_decile,,D2,7.524863641
@@ -3479,16 +3479,16 @@ year,iso3,var,element,dist,value
 2010,MLT,emissions_per_capita,,D7,11.75129384
 2010,MLT,emissions_per_capita,,D8,13.28278605
 2010,MLT,emissions_per_capita,,D9,14.47498263
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,MLT,expenditure_decile,,D1,6.370310379
 2010,MLT,expenditure_decile,,D10,15.48465659
 2010,MLT,expenditure_decile,,D2,6.219492763
@@ -3656,16 +3656,16 @@ year,iso3,var,element,dist,value
 2010,POL,emissions_per_capita,,D7,6.400238484
 2010,POL,emissions_per_capita,,D8,7.167193315
 2010,POL,emissions_per_capita,,D9,8.259971446
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,POL,expenditure_decile,,D1,6.076867162
 2010,POL,expenditure_decile,,D10,18.26320356
 2010,POL,expenditure_decile,,D2,6.788098684
@@ -3839,16 +3839,16 @@ year,iso3,var,element,dist,value
 2010,PRT,emissions_per_capita,,D7,4.11809461
 2010,PRT,emissions_per_capita,,D8,4.764253319
 2010,PRT,emissions_per_capita,,D9,5.753761519
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,PRT,expenditure_decile,,D1,6.129305425
 2010,PRT,expenditure_decile,,D10,20.25389381
 2010,PRT,expenditure_decile,,D2,6.176997001
@@ -4018,16 +4018,16 @@ year,iso3,var,element,dist,value
 2010,ROU,emissions_per_capita,,D7,3.451753039
 2010,ROU,emissions_per_capita,,D8,3.825221665
 2010,ROU,emissions_per_capita,,D9,4.579112559
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,ROU,expenditure_decile,,D1,5.696489168
 2010,ROU,expenditure_decile,,D10,17.93372819
 2010,ROU,expenditure_decile,,D2,6.05104287
@@ -4184,16 +4184,16 @@ year,iso3,var,element,dist,value
 2010,SVK,emissions_per_capita,,D7,4.666009104
 2010,SVK,emissions_per_capita,,D8,5.056671588
 2010,SVK,emissions_per_capita,,D9,5.890687462
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,SVK,expenditure_decile,,D1,5.928776686
 2010,SVK,expenditure_decile,,D10,15.98821819
 2010,SVK,expenditure_decile,,D2,7.280307309
@@ -4334,16 +4334,16 @@ year,iso3,var,element,dist,value
 2010,SVN,emissions_per_capita,,D7,6.199337569
 2010,SVN,emissions_per_capita,,D8,6.746923329
 2010,SVN,emissions_per_capita,,D9,7.945005526
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,SVN,expenditure_decile,,D1,5.879201465
 2010,SVN,expenditure_decile,,D10,16.47546635
 2010,SVN,expenditure_decile,,D2,5.848521345
@@ -4484,16 +4484,16 @@ year,iso3,var,element,dist,value
 2010,SWE,emissions_per_capita,,D7,
 2010,SWE,emissions_per_capita,,D8,
 2010,SWE,emissions_per_capita,,D9,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
-2010,"",,,DNA,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
+2010,"",,,,
 2010,SWE,expenditure_decile,,D1,5.765478785
 2010,SWE,expenditure_decile,,D10,15.63892106
 2010,SWE,expenditure_decile,,D2,6.578011747
@@ -4779,16 +4779,16 @@ year,iso3,var,element,dist,value
 2011,FRA,wealth_share,,D8,0
 2011,FRA,wealth_share,,D9,0
 2011,FRA,wealth_share,,D10,0
-2011,FRA,educat,Under 15,D15,0
-2011,FRA,educat,Under 15,D15,0
-2011,FRA,educat,Under 15,D15,0
-2011,FRA,educat,Under 15,D15,0
-2011,FRA,educat,Under 15,D15,0
-2011,FRA,educat,Under 15,D15,0
-2011,FRA,educat,Under 15,D15,0
-2011,FRA,educat,Under 15,D15,0
-2011,FRA,educat,Under 15,D15,0
-2011,FRA,educat,Under 15,D15,0
+2011,FRA,educat,Under 15,D1,0
+2011,FRA,educat,Under 15,D2,0
+2011,FRA,educat,Under 15,D3,0
+2011,FRA,educat,Under 15,D4,0
+2011,FRA,educat,Under 15,D5,0
+2011,FRA,educat,Under 15,D6,0
+2011,FRA,educat,Under 15,D7,0
+2011,FRA,educat,Under 15,D8,0
+2011,FRA,educat,Under 15,D9,0
+2011,FRA,educat,Under 15,D10,0
 2011,FRA,educat,No education,D1,28.46331248
 2011,FRA,educat,No education,D2,34.97921398
 2011,FRA,educat,No education,D3,30.48404033
@@ -4919,16 +4919,16 @@ year,iso3,var,element,dist,value
 2012,IND,wealth_share,,D8,8.12
 2012,IND,wealth_share,,D9,13.96
 2012,IND,wealth_share,,D10,63.02
-2012,IND,educat,Under 15,D15,0
-2012,IND,educat,Under 15,D15,0
-2012,IND,educat,Under 15,D15,0
-2012,IND,educat,Under 15,D15,0
-2012,IND,educat,Under 15,D15,0
-2012,IND,educat,Under 15,D15,0
-2012,IND,educat,Under 15,D15,0
-2012,IND,educat,Under 15,D15,0
-2012,IND,educat,Under 15,D15,0
-2012,IND,educat,Under 15,D15,0
+2012,IND,educat,Under 15,D1,0
+2012,IND,educat,Under 15,D2,0
+2012,IND,educat,Under 15,D3,0
+2012,IND,educat,Under 15,D4,0
+2012,IND,educat,Under 15,D5,0
+2012,IND,educat,Under 15,D6,0
+2012,IND,educat,Under 15,D7,0
+2012,IND,educat,Under 15,D8,0
+2012,IND,educat,Under 15,D9,0
+2012,IND,educat,Under 15,D10,0
 2012,IND,educat,No education,D1,55.12
 2012,IND,educat,No education,D2,53.5
 2012,IND,educat,No education,D3,52.51
@@ -5079,16 +5079,16 @@ year,iso3,var,element,dist,value
 2018,MEX,wealth_share,,D8,5.36
 2018,MEX,wealth_share,,D9,10.91
 2018,MEX,wealth_share,,D10,78.86
-2018,MEX,educat,Under 15,D15,0.014128
-2018,MEX,educat,Under 15,D15,0
-2018,MEX,educat,Under 15,D15,0
-2018,MEX,educat,Under 15,D15,0
-2018,MEX,educat,Under 15,D15,0.021351
-2018,MEX,educat,Under 15,D15,0.006842
-2018,MEX,educat,Under 15,D15,0
-2018,MEX,educat,Under 15,D15,0
-2018,MEX,educat,Under 15,D15,0
-2018,MEX,educat,Under 15,D15,0
+2018,MEX,educat,Under 15,D1,0.014128
+2018,MEX,educat,Under 15,D2,0
+2018,MEX,educat,Under 15,D3,0
+2018,MEX,educat,Under 15,D4,0
+2018,MEX,educat,Under 15,D5,0.021351
+2018,MEX,educat,Under 15,D6,0.006842
+2018,MEX,educat,Under 15,D7,0
+2018,MEX,educat,Under 15,D8,0
+2018,MEX,educat,Under 15,D9,0
+2018,MEX,educat,Under 15,D10,0
 2018,MEX,educat,No education,D1,48.54697
 2018,MEX,educat,No education,D2,34.599786
 2018,MEX,educat,No education,D3,29.615224
@@ -5239,16 +5239,16 @@ year,iso3,var,element,dist,value
 2019,RUS,wealth_share,,D8,6.04
 2019,RUS,wealth_share,,D9,9.76
 2019,RUS,wealth_share,,D10,74.19
-2019,RUS,educat,Under 15,D15,0
-2019,RUS,educat,Under 15,D15,0
-2019,RUS,educat,Under 15,D15,0
-2019,RUS,educat,Under 15,D15,0
-2019,RUS,educat,Under 15,D15,0
-2019,RUS,educat,Under 15,D15,0
-2019,RUS,educat,Under 15,D15,0
-2019,RUS,educat,Under 15,D15,0
-2019,RUS,educat,Under 15,D15,0
-2019,RUS,educat,Under 15,D15,0
+2019,RUS,educat,Under 15,D1,0
+2019,RUS,educat,Under 15,D2,0
+2019,RUS,educat,Under 15,D3,0
+2019,RUS,educat,Under 15,D4,0
+2019,RUS,educat,Under 15,D5,0
+2019,RUS,educat,Under 15,D6,0
+2019,RUS,educat,Under 15,D7,0
+2019,RUS,educat,Under 15,D8,0
+2019,RUS,educat,Under 15,D9,0
+2019,RUS,educat,Under 15,D10,0
 2019,RUS,educat,No education,D1,1.556192
 2019,RUS,educat,No education,D2,1.656687
 2019,RUS,educat,No education,D3,1.93339
@@ -5431,36 +5431,36 @@ year,iso3,var,element,dist,value
 2018,USA,educat,Tertiary Education,D10,76.24
 2018,USA,inequality_index,gini,0,0.473
 2018,USA,inequality_index,absolute_poverty,0,11.8
-2018,USA,household_size,,D3,1.525
-2018,USA,household_size,,D4,1.638
-2018,USA,household_size,,D5,1.996
-2018,USA,household_size,,D6,2.14
-2018,USA,household_size,,D7,2.364
-2018,USA,household_size,,D8,2.572
-2018,USA,household_size,,D9,2.847
-2018,USA,household_size,,D10,2.977
-2018,USA,household_size,,D1,3.035
-2018,USA,household_size,,D2,3.186
-2018,USA,expenditure_decile,,D3,1.605
-2018,USA,expenditure_decile,,D4,2.833
-2018,USA,expenditure_decile,,D5,3.901
-2018,USA,expenditure_decile,,D6,5.048
-2018,USA,expenditure_decile,,D7,6.307
-2018,USA,expenditure_decile,,D8,7.842
-2018,USA,expenditure_decile,,D9,9.809
-2018,USA,expenditure_decile,,D10,12.544
-2018,USA,expenditure_decile,,D1,16.789
-2018,USA,expenditure_decile,,D2,33.322
-2018,USA,income_decile,,D3,0.964
-2018,USA,income_decile,,D4,2.289
-2018,USA,income_decile,,D5,3.499
-2018,USA,income_decile,,D6,4.777
-2018,USA,income_decile,,D7,6.208
-2018,USA,income_decile,,D8,8.093
-2018,USA,income_decile,,D9,10.344
-2018,USA,income_decile,,D10,13.024
-2018,USA,income_decile,,D1,17.734
-2018,USA,income_decile,,D2,33.067
+2018,USA,household_size,,D1,1.525
+2018,USA,household_size,,D2,1.638
+2018,USA,household_size,,D3,1.996
+2018,USA,household_size,,D4,2.14
+2018,USA,household_size,,D5,2.364
+2018,USA,household_size,,D6,2.572
+2018,USA,household_size,,D7,2.847
+2018,USA,household_size,,D8,2.977
+2018,USA,household_size,,D9,3.035
+2018,USA,household_size,,D10,3.186
+2018,USA,expenditure_decile,,D1,1.605
+2018,USA,expenditure_decile,,D2,2.833
+2018,USA,expenditure_decile,,D3,3.901
+2018,USA,expenditure_decile,,D4,5.048
+2018,USA,expenditure_decile,,D5,6.307
+2018,USA,expenditure_decile,,D6,7.842
+2018,USA,expenditure_decile,,D7,9.809
+2018,USA,expenditure_decile,,D8,12.544
+2018,USA,expenditure_decile,,D9,16.789
+2018,USA,expenditure_decile,,D10,33.322
+2018,USA,income_decile,,D1,0.964
+2018,USA,income_decile,,D2,2.289
+2018,USA,income_decile,,D3,3.499
+2018,USA,income_decile,,D4,4.777
+2018,USA,income_decile,,D5,6.208
+2018,USA,income_decile,,D6,8.093
+2018,USA,income_decile,,D7,10.344
+2018,USA,income_decile,,D8,13.024
+2018,USA,income_decile,,D9,17.734
+2018,USA,income_decile,,D10,33.067
 2008,ZAF,expcat_input,food,D1,49.823
 2010,ZAF,expcat_input,food,D1,47.59
 2012,ZAF,expcat_input,food,D1,51.361
@@ -6071,153 +6071,153 @@ year,iso3,var,element,dist,value
 2012,ZAF,inequality_index,absolute_poverty,0,37
 2015,ZAF,inequality_index,absolute_poverty,0,35.8
 2017,ZAF,inequality_index,absolute_poverty,0,37.6
-2008,ZAF,household_size,,D3,3.4
-2010,ZAF,household_size,,D3,3.696
-2012,ZAF,household_size,,D3,3.12
-2015,ZAF,household_size,,D3,3.023
-2017,ZAF,household_size,,D3,2.989
-2008,ZAF,household_size,,D4,3.71
-2010,ZAF,household_size,,D4,3.615
-2012,ZAF,household_size,,D4,3.293
-2015,ZAF,household_size,,D4,2.908
-2017,ZAF,household_size,,D4,2.816
-2008,ZAF,household_size,,D5,3.04
-2010,ZAF,household_size,,D5,3.314
-2012,ZAF,household_size,,D5,3.668
-2015,ZAF,household_size,,D5,3.548
-2017,ZAF,household_size,,D5,3.651
-2008,ZAF,household_size,,D6,3.82
-2010,ZAF,household_size,,D6,4.622
-2012,ZAF,household_size,,D6,4.095
-2015,ZAF,household_size,,D6,3.89
-2017,ZAF,household_size,,D6,3.668
-2008,ZAF,household_size,,D7,4.4
-2010,ZAF,household_size,,D7,4.73
-2012,ZAF,household_size,,D7,4.094
-2015,ZAF,household_size,,D7,3.879
-2017,ZAF,household_size,,D7,3.813
-2008,ZAF,household_size,,D8,4.21
-2010,ZAF,household_size,,D8,4.79
-2012,ZAF,household_size,,D8,4.782
-2015,ZAF,household_size,,D8,4.447
-2017,ZAF,household_size,,D8,4.536
-2008,ZAF,household_size,,D9,4.79
-2010,ZAF,household_size,,D9,5.143
-2012,ZAF,household_size,,D9,4.85
-2015,ZAF,household_size,,D9,4.75
-2017,ZAF,household_size,,D9,4.708
-2008,ZAF,household_size,,D10,4.65
-2010,ZAF,household_size,,D10,5.083
-2012,ZAF,household_size,,D10,5.128
-2015,ZAF,household_size,,D10,4.722
-2017,ZAF,household_size,,D10,4.511
-2008,ZAF,household_size,,D1,4.25
-2010,ZAF,household_size,,D1,5.256
-2012,ZAF,household_size,,D1,4.933
-2015,ZAF,household_size,,D1,4.662
-2017,ZAF,household_size,,D1,4.493
-2008,ZAF,household_size,,D2,3.77
-2010,ZAF,household_size,,D2,4.544
-2012,ZAF,household_size,,D2,4.455
-2015,ZAF,household_size,,D2,4.488
-2017,ZAF,household_size,,D2,3.931
-2008,ZAF,expenditure_decile,,D3,1.21
-2010,ZAF,expenditure_decile,,D3,1.39
-2012,ZAF,expenditure_decile,,D3,1.64
-2015,ZAF,expenditure_decile,,D3,1.78
-2017,ZAF,expenditure_decile,,D3,1.29
-2008,ZAF,expenditure_decile,,D4,1.92
-2010,ZAF,expenditure_decile,,D4,2.27
-2012,ZAF,expenditure_decile,,D4,2.51
-2015,ZAF,expenditure_decile,,D4,2.62
-2017,ZAF,expenditure_decile,,D4,2.01
-2008,ZAF,expenditure_decile,,D5,2.48
-2010,ZAF,expenditure_decile,,D5,2.9
-2012,ZAF,expenditure_decile,,D5,2.98
-2015,ZAF,expenditure_decile,,D5,3.32
-2017,ZAF,expenditure_decile,,D5,2.55
-2008,ZAF,expenditure_decile,,D6,3.07
-2010,ZAF,expenditure_decile,,D6,3.54
-2012,ZAF,expenditure_decile,,D6,3.77
-2015,ZAF,expenditure_decile,,D6,4.05
-2017,ZAF,expenditure_decile,,D6,3.14
-2008,ZAF,expenditure_decile,,D7,3.75
-2010,ZAF,expenditure_decile,,D7,4.26
-2012,ZAF,expenditure_decile,,D7,4.55
-2015,ZAF,expenditure_decile,,D7,4.93
-2017,ZAF,expenditure_decile,,D7,3.89
-2008,ZAF,expenditure_decile,,D8,4.68
-2010,ZAF,expenditure_decile,,D8,5.16
-2012,ZAF,expenditure_decile,,D8,5.57
-2015,ZAF,expenditure_decile,,D8,6.05
-2017,ZAF,expenditure_decile,,D8,4.87
-2008,ZAF,expenditure_decile,,D9,6.09
-2010,ZAF,expenditure_decile,,D9,6.42
-2012,ZAF,expenditure_decile,,D9,7.14
-2015,ZAF,expenditure_decile,,D9,7.65
-2017,ZAF,expenditure_decile,,D9,6.35
-2008,ZAF,expenditure_decile,,D10,8.96
-2010,ZAF,expenditure_decile,,D10,8.96
-2012,ZAF,expenditure_decile,,D10,9.77
-2015,ZAF,expenditure_decile,,D10,10.35
-2017,ZAF,expenditure_decile,,D10,9.18
-2008,ZAF,expenditure_decile,,D1,16.95
-2010,ZAF,expenditure_decile,,D1,14.74
-2012,ZAF,expenditure_decile,,D1,15.55
-2015,ZAF,expenditure_decile,,D1,15.97
-2017,ZAF,expenditure_decile,,D1,16.12
-2008,ZAF,expenditure_decile,,D2,50.9
-2010,ZAF,expenditure_decile,,D2,50.37
-2012,ZAF,expenditure_decile,,D2,46.52
-2015,ZAF,expenditure_decile,,D2,43.27
-2017,ZAF,expenditure_decile,,D2,50.62
-2008,ZAF,income_decile,,D3,0.63
-2010,ZAF,income_decile,,D3,0.81
-2012,ZAF,income_decile,,D3,0.9
-2015,ZAF,income_decile,,D3,0.9
-2017,ZAF,income_decile,,D3,0.81
-2008,ZAF,income_decile,,D4,1.68
-2010,ZAF,income_decile,,D4,3.62
-2012,ZAF,income_decile,,D4,2.63
-2015,ZAF,income_decile,,D4,2
-2017,ZAF,income_decile,,D4,1.7
-2008,ZAF,income_decile,,D5,2.62
-2010,ZAF,income_decile,,D5,0.83
-2012,ZAF,income_decile,,D5,2.07
-2015,ZAF,income_decile,,D5,2.77
-2017,ZAF,income_decile,,D5,2.44
-2008,ZAF,income_decile,,D6,1.96
-2010,ZAF,income_decile,,D6,3.27
-2012,ZAF,income_decile,,D6,3.54
-2015,ZAF,income_decile,,D6,3.71
-2017,ZAF,income_decile,,D6,3.24
-2008,ZAF,income_decile,,D7,3.23
-2010,ZAF,income_decile,,D7,4.03
-2012,ZAF,income_decile,,D7,4.66
-2015,ZAF,income_decile,,D7,4.6
-2017,ZAF,income_decile,,D7,4.35
-2008,ZAF,income_decile,,D8,4.38
-2010,ZAF,income_decile,,D8,5.46
-2012,ZAF,income_decile,,D8,5.72
-2015,ZAF,income_decile,,D8,5.79
-2017,ZAF,income_decile,,D8,5.02
-2008,ZAF,income_decile,,D9,5.41
-2010,ZAF,income_decile,,D9,6.9
-2012,ZAF,income_decile,,D9,8.07
-2015,ZAF,income_decile,,D9,7.64
-2017,ZAF,income_decile,,D9,6.87
-2008,ZAF,income_decile,,D10,7.93
-2010,ZAF,income_decile,,D10,9.76
-2012,ZAF,income_decile,,D10,9.68
-2015,ZAF,income_decile,,D10,10.42
-2017,ZAF,income_decile,,D10,9.74
-2008,ZAF,income_decile,,D1,13.17
-2010,ZAF,income_decile,,D1,15.26
-2012,ZAF,income_decile,,D1,15.79
-2015,ZAF,income_decile,,D1,15.61
-2017,ZAF,income_decile,,D1,15.32
-2008,ZAF,income_decile,,D2,58.99
-2010,ZAF,income_decile,,D2,50.07
-2012,ZAF,income_decile,,D2,46.95
-2015,ZAF,income_decile,,D2,46.56
-2017,ZAF,income_decile,,D2,50.52
+2008,ZAF,household_size,,D1,3.4
+2010,ZAF,household_size,,D1,3.696
+2012,ZAF,household_size,,D1,3.12
+2015,ZAF,household_size,,D1,3.023
+2017,ZAF,household_size,,D1,2.989
+2008,ZAF,household_size,,D2,3.71
+2010,ZAF,household_size,,D2,3.615
+2012,ZAF,household_size,,D2,3.293
+2015,ZAF,household_size,,D2,2.908
+2017,ZAF,household_size,,D2,2.816
+2008,ZAF,household_size,,D3,3.04
+2010,ZAF,household_size,,D3,3.314
+2012,ZAF,household_size,,D3,3.668
+2015,ZAF,household_size,,D3,3.548
+2017,ZAF,household_size,,D3,3.651
+2008,ZAF,household_size,,D4,3.82
+2010,ZAF,household_size,,D4,4.622
+2012,ZAF,household_size,,D4,4.095
+2015,ZAF,household_size,,D4,3.89
+2017,ZAF,household_size,,D4,3.668
+2008,ZAF,household_size,,D5,4.4
+2010,ZAF,household_size,,D5,4.73
+2012,ZAF,household_size,,D5,4.094
+2015,ZAF,household_size,,D5,3.879
+2017,ZAF,household_size,,D5,3.813
+2008,ZAF,household_size,,D6,4.21
+2010,ZAF,household_size,,D6,4.79
+2012,ZAF,household_size,,D6,4.782
+2015,ZAF,household_size,,D6,4.447
+2017,ZAF,household_size,,D6,4.536
+2008,ZAF,household_size,,D7,4.79
+2010,ZAF,household_size,,D7,5.143
+2012,ZAF,household_size,,D7,4.85
+2015,ZAF,household_size,,D7,4.75
+2017,ZAF,household_size,,D7,4.708
+2008,ZAF,household_size,,D8,4.65
+2010,ZAF,household_size,,D8,5.083
+2012,ZAF,household_size,,D8,5.128
+2015,ZAF,household_size,,D8,4.722
+2017,ZAF,household_size,,D8,4.511
+2008,ZAF,household_size,,D9,4.25
+2010,ZAF,household_size,,D9,5.256
+2012,ZAF,household_size,,D9,4.933
+2015,ZAF,household_size,,D9,4.662
+2017,ZAF,household_size,,D9,4.493
+2008,ZAF,household_size,,D10,3.77
+2010,ZAF,household_size,,D10,4.544
+2012,ZAF,household_size,,D10,4.455
+2015,ZAF,household_size,,D10,4.488
+2017,ZAF,household_size,,D10,3.931
+2008,ZAF,expenditure_decile,,D1,1.21
+2010,ZAF,expenditure_decile,,D1,1.39
+2012,ZAF,expenditure_decile,,D1,1.64
+2015,ZAF,expenditure_decile,,D1,1.78
+2017,ZAF,expenditure_decile,,D1,1.29
+2008,ZAF,expenditure_decile,,D2,1.92
+2010,ZAF,expenditure_decile,,D2,2.27
+2012,ZAF,expenditure_decile,,D2,2.51
+2015,ZAF,expenditure_decile,,D2,2.62
+2017,ZAF,expenditure_decile,,D2,2.01
+2008,ZAF,expenditure_decile,,D3,2.48
+2010,ZAF,expenditure_decile,,D3,2.9
+2012,ZAF,expenditure_decile,,D3,2.98
+2015,ZAF,expenditure_decile,,D3,3.32
+2017,ZAF,expenditure_decile,,D3,2.55
+2008,ZAF,expenditure_decile,,D4,3.07
+2010,ZAF,expenditure_decile,,D4,3.54
+2012,ZAF,expenditure_decile,,D4,3.77
+2015,ZAF,expenditure_decile,,D4,4.05
+2017,ZAF,expenditure_decile,,D4,3.14
+2008,ZAF,expenditure_decile,,D5,3.75
+2010,ZAF,expenditure_decile,,D5,4.26
+2012,ZAF,expenditure_decile,,D5,4.55
+2015,ZAF,expenditure_decile,,D5,4.93
+2017,ZAF,expenditure_decile,,D5,3.89
+2008,ZAF,expenditure_decile,,D6,4.68
+2010,ZAF,expenditure_decile,,D6,5.16
+2012,ZAF,expenditure_decile,,D6,5.57
+2015,ZAF,expenditure_decile,,D6,6.05
+2017,ZAF,expenditure_decile,,D6,4.87
+2008,ZAF,expenditure_decile,,D7,6.09
+2010,ZAF,expenditure_decile,,D7,6.42
+2012,ZAF,expenditure_decile,,D7,7.14
+2015,ZAF,expenditure_decile,,D7,7.65
+2017,ZAF,expenditure_decile,,D7,6.35
+2008,ZAF,expenditure_decile,,D8,8.96
+2010,ZAF,expenditure_decile,,D8,8.96
+2012,ZAF,expenditure_decile,,D8,9.77
+2015,ZAF,expenditure_decile,,D8,10.35
+2017,ZAF,expenditure_decile,,D8,9.18
+2008,ZAF,expenditure_decile,,D9,16.95
+2010,ZAF,expenditure_decile,,D9,14.74
+2012,ZAF,expenditure_decile,,D9,15.55
+2015,ZAF,expenditure_decile,,D9,15.97
+2017,ZAF,expenditure_decile,,D9,16.12
+2008,ZAF,expenditure_decile,,D10,50.9
+2010,ZAF,expenditure_decile,,D10,50.37
+2012,ZAF,expenditure_decile,,D10,46.52
+2015,ZAF,expenditure_decile,,D10,43.27
+2017,ZAF,expenditure_decile,,D10,50.62
+2008,ZAF,income_decile,,D1,0.63
+2010,ZAF,income_decile,,D1,0.81
+2012,ZAF,income_decile,,D1,0.9
+2015,ZAF,income_decile,,D1,0.9
+2017,ZAF,income_decile,,D1,0.81
+2008,ZAF,income_decile,,D2,1.68
+2010,ZAF,income_decile,,D2,3.62
+2012,ZAF,income_decile,,D2,2.63
+2015,ZAF,income_decile,,D2,2
+2017,ZAF,income_decile,,D2,1.7
+2008,ZAF,income_decile,,D3,2.62
+2010,ZAF,income_decile,,D3,0.83
+2012,ZAF,income_decile,,D3,2.07
+2015,ZAF,income_decile,,D3,2.77
+2017,ZAF,income_decile,,D3,2.44
+2008,ZAF,income_decile,,D4,1.96
+2010,ZAF,income_decile,,D4,3.27
+2012,ZAF,income_decile,,D4,3.54
+2015,ZAF,income_decile,,D4,3.71
+2017,ZAF,income_decile,,D4,3.24
+2008,ZAF,income_decile,,D5,3.23
+2010,ZAF,income_decile,,D5,4.03
+2012,ZAF,income_decile,,D5,4.66
+2015,ZAF,income_decile,,D5,4.6
+2017,ZAF,income_decile,,D5,4.35
+2008,ZAF,income_decile,,D6,4.38
+2010,ZAF,income_decile,,D6,5.46
+2012,ZAF,income_decile,,D6,5.72
+2015,ZAF,income_decile,,D6,5.79
+2017,ZAF,income_decile,,D6,5.02
+2008,ZAF,income_decile,,D7,5.41
+2010,ZAF,income_decile,,D7,6.9
+2012,ZAF,income_decile,,D7,8.07
+2015,ZAF,income_decile,,D7,7.64
+2017,ZAF,income_decile,,D7,6.87
+2008,ZAF,income_decile,,D8,7.93
+2010,ZAF,income_decile,,D8,9.76
+2012,ZAF,income_decile,,D8,9.68
+2015,ZAF,income_decile,,D8,10.42
+2017,ZAF,income_decile,,D8,9.74
+2008,ZAF,income_decile,,D9,13.17
+2010,ZAF,income_decile,,D9,15.26
+2012,ZAF,income_decile,,D9,15.79
+2015,ZAF,income_decile,,D9,15.61
+2017,ZAF,income_decile,,D9,15.32
+2008,ZAF,income_decile,,D10,58.99
+2010,ZAF,income_decile,,D10,50.07
+2012,ZAF,income_decile,,D10,46.95
+2015,ZAF,income_decile,,D10,46.56
+2017,ZAF,income_decile,,D10,50.52
