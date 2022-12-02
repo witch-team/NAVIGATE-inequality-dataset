@@ -1,181 +1,191 @@
-MODEL;SCENARIO;REGION;VARIABLE;UNIT;2012
-Reference;India;IND;Expenditure Share|Food|D1;% of total HH expenditures;59.685
-Reference;India;IND;Expenditure Share|Food|D2;% of total HH expenditures;59.936
-Reference;India;IND;Expenditure Share|Food|D3;% of total HH expenditures;59.073
-Reference;India;IND;Expenditure Share|Food|D4;% of total HH expenditures;58.578
-Reference;India;IND;Expenditure Share|Food|D5;% of total HH expenditures;57.257
-Reference;India;IND;Expenditure Share|Food|D6;% of total HH expenditures;55.531
-Reference;India;IND;Expenditure Share|Food|D7;% of total HH expenditures;53.405
-Reference;India;IND;Expenditure Share|Food|D8;% of total HH expenditures;50.363
-Reference;India;IND;Expenditure Share|Food|D9;% of total HH expenditures;45.775
-Reference;India;IND;Expenditure Share|Food|D10;% of total HH expenditures;33.142
-Reference;India;IND;Expenditure Share|Food|non-Meat|D1;% of total HH expenditures;57.473
-Reference;India;IND;Expenditure Share|Food|non-Meat|D2;% of total HH expenditures;57.431
-Reference;India;IND;Expenditure Share|Food|non-Meat|D3;% of total HH expenditures;56.586
-Reference;India;IND;Expenditure Share|Food|non-Meat|D4;% of total HH expenditures;56.038
-Reference;India;IND;Expenditure Share|Food|non-Meat|D5;% of total HH expenditures;54.825
-Reference;India;IND;Expenditure Share|Food|non-Meat|D6;% of total HH expenditures;53.122
-Reference;India;IND;Expenditure Share|Food|non-Meat|D7;% of total HH expenditures;51.062
-Reference;India;IND;Expenditure Share|Food|non-Meat|D8;% of total HH expenditures;48.285
-Reference;India;IND;Expenditure Share|Food|non-Meat|D9;% of total HH expenditures;43.877
-Reference;India;IND;Expenditure Share|Food|non-Meat|D10;% of total HH expenditures;31.784
-Reference;India;IND;Expenditure Share|Food|Meat|D1;% of total HH expenditures;2.212
-Reference;India;IND;Expenditure Share|Food|Meat|D2;% of total HH expenditures;2.505
-Reference;India;IND;Expenditure Share|Food|Meat|D3;% of total HH expenditures;2.488
-Reference;India;IND;Expenditure Share|Food|Meat|D4;% of total HH expenditures;2.54
-Reference;India;IND;Expenditure Share|Food|Meat|D5;% of total HH expenditures;2.432
-Reference;India;IND;Expenditure Share|Food|Meat|D6;% of total HH expenditures;2.409
-Reference;India;IND;Expenditure Share|Food|Meat|D7;% of total HH expenditures;2.343
-Reference;India;IND;Expenditure Share|Food|Meat|D8;% of total HH expenditures;2.078
-Reference;India;IND;Expenditure Share|Food|Meat|D9;% of total HH expenditures;1.899
-Reference;India;IND;Expenditure Share|Food|Meat|D10;% of total HH expenditures;1.357
-Reference;India;IND;Expenditure Share|Energy|Housing|D1;% of total HH expenditures;13.599
-Reference;India;IND;Expenditure Share|Energy|Housing|D2;% of total HH expenditures;11.776
-Reference;India;IND;Expenditure Share|Energy|Housing|D3;% of total HH expenditures;10.873
-Reference;India;IND;Expenditure Share|Energy|Housing|D4;% of total HH expenditures;10.257
-Reference;India;IND;Expenditure Share|Energy|Housing|D5;% of total HH expenditures;9.609
-Reference;India;IND;Expenditure Share|Energy|Housing|D6;% of total HH expenditures;9.084
-Reference;India;IND;Expenditure Share|Energy|Housing|D7;% of total HH expenditures;8.43
-Reference;India;IND;Expenditure Share|Energy|Housing|D8;% of total HH expenditures;7.813
-Reference;India;IND;Expenditure Share|Energy|Housing|D9;% of total HH expenditures;6.794
-Reference;India;IND;Expenditure Share|Energy|Housing|D10;% of total HH expenditures;4.833
-Reference;India;IND;Expenditure Share|Energy|Transportation|D1;% of total HH expenditures;1.94
-Reference;India;IND;Expenditure Share|Energy|Transportation|D2;% of total HH expenditures;2.19
-Reference;India;IND;Expenditure Share|Energy|Transportation|D3;% of total HH expenditures;2.546
-Reference;India;IND;Expenditure Share|Energy|Transportation|D4;% of total HH expenditures;2.956
-Reference;India;IND;Expenditure Share|Energy|Transportation|D5;% of total HH expenditures;3.407
-Reference;India;IND;Expenditure Share|Energy|Transportation|D6;% of total HH expenditures;4.043
-Reference;India;IND;Expenditure Share|Energy|Transportation|D7;% of total HH expenditures;4.835
-Reference;India;IND;Expenditure Share|Energy|Transportation|D8;% of total HH expenditures;5.598
-Reference;India;IND;Expenditure Share|Energy|Transportation|D9;% of total HH expenditures;6.591
-Reference;India;IND;Expenditure Share|Energy|Transportation|D10;% of total HH expenditures;8.193
-Reference;India;IND;Income Share|Labour|D1;% of total HH income;67.835174
-Reference;India;IND;Income Share|Labour|D2;% of total HH income;80.588892
-Reference;India;IND;Income Share|Labour|D3;% of total HH income;83.824945
-Reference;India;IND;Income Share|Labour|D4;% of total HH income;84.9072
-Reference;India;IND;Income Share|Labour|D5;% of total HH income;86.484701
-Reference;India;IND;Income Share|Labour|D6;% of total HH income;85.784774
-Reference;India;IND;Income Share|Labour|D7;% of total HH income;85.831363
-Reference;India;IND;Income Share|Labour|D8;% of total HH income;84.11015
-Reference;India;IND;Income Share|Labour|D9;% of total HH income;83.345162
-Reference;India;IND;Income Share|Labour|D10;% of total HH income;84.055139
-Reference;India;IND;Income Share|Capital|D1;% of total HH income;0.427147
-Reference;India;IND;Income Share|Capital|D2;% of total HH income;0.415268
-Reference;India;IND;Income Share|Capital|D3;% of total HH income;0.28649
-Reference;India;IND;Income Share|Capital|D4;% of total HH income;0.469977
-Reference;India;IND;Income Share|Capital|D5;% of total HH income;0.559954
-Reference;India;IND;Income Share|Capital|D6;% of total HH income;0.558045
-Reference;India;IND;Income Share|Capital|D7;% of total HH income;0.896454
-Reference;India;IND;Income Share|Capital|D8;% of total HH income;0.907611
-Reference;India;IND;Income Share|Capital|D9;% of total HH income;1.175423
-Reference;India;IND;Income Share|Capital|D10;% of total HH income;1.727161
-Reference;India;IND;Income Share|Transfers|D1;% of total HH income;30.255877
-Reference;India;IND;Income Share|Transfers|D2;% of total HH income;18.99584
-Reference;India;IND;Income Share|Transfers|D3;% of total HH income;15.888565
-Reference;India;IND;Income Share|Transfers|D4;% of total HH income;14.622823
-Reference;India;IND;Income Share|Transfers|D5;% of total HH income;12.955345
-Reference;India;IND;Income Share|Transfers|D6;% of total HH income;13.657181
-Reference;India;IND;Income Share|Transfers|D7;% of total HH income;13.272183
-Reference;India;IND;Income Share|Transfers|D8;% of total HH income;14.982238
-Reference;India;IND;Income Share|Transfers|D9;% of total HH income;15.479415
-Reference;India;IND;Income Share|Transfers|D10;% of total HH income;14.2177
-Reference;India;IND;Income Share|Other|D1;% of total HH income;0
-Reference;India;IND;Income Share|Other|D2;% of total HH income;0
-Reference;India;IND;Income Share|Other|D3;% of total HH income;0
-Reference;India;IND;Income Share|Other|D4;% of total HH income;0
-Reference;India;IND;Income Share|Other|D5;% of total HH income;0
-Reference;India;IND;Income Share|Other|D6;% of total HH income;0
-Reference;India;IND;Income Share|Other|D7;% of total HH income;0
-Reference;India;IND;Income Share|Other|D8;% of total HH income;0
-Reference;India;IND;Income Share|Other|D9;% of total HH income;0
-Reference;India;IND;Income Share|Other|D10;% of total HH income;0
-Reference;India;IND;Savings Rate|D1;% of total HH income;-33.9
-Reference;India;IND;Savings Rate|D2;% of total HH income;-4.3
-Reference;India;IND;Savings Rate|D3;% of total HH income;5.2
-Reference;India;IND;Savings Rate|D4;% of total HH income;12.1
-Reference;India;IND;Savings Rate|D5;% of total HH income;16.6
-Reference;India;IND;Savings Rate|D6;% of total HH income;21.7
-Reference;India;IND;Savings Rate|D7;% of total HH income;27.5
-Reference;India;IND;Savings Rate|D8;% of total HH income;33.7
-Reference;India;IND;Savings Rate|D9;% of total HH income;41.5
-Reference;India;IND;Savings Rate|D10;% of total HH income;52.73
-Reference;India;IND;Wealth Share|D1;% of national wealth;0.13
-Reference;India;IND;Wealth Share|D2;% of national wealth;0.6
-Reference;India;IND;Wealth Share|D3;% of national wealth;1.12
-Reference;India;IND;Wealth Share|D4;% of national wealth;1.74
-Reference;India;IND;Wealth Share|D5;% of national wealth;2.5
-Reference;India;IND;Wealth Share|D6;% of national wealth;3.59
-Reference;India;IND;Wealth Share|D7;% of national wealth;5.23
-Reference;India;IND;Wealth Share|D8;% of national wealth;8.12
-Reference;India;IND;Wealth Share|D9;% of national wealth;13.96
-Reference;India;IND;Wealth Share|D10;% of national wealth;63.02
-Reference;India;IND;Education|Under 15|D1;% of household heads in a given quantile;0
-Reference;India;IND;Education|Under 15|D2;% of household heads in a given quantile;0
-Reference;India;IND;Education|Under 15|D3;% of household heads in a given quantile;0
-Reference;India;IND;Education|Under 15|D4;% of household heads in a given quantile;0
-Reference;India;IND;Education|Under 15|D5;% of household heads in a given quantile;0
-Reference;India;IND;Education|Under 15|D6;% of household heads in a given quantile;0
-Reference;India;IND;Education|Under 15|D7;% of household heads in a given quantile;0
-Reference;India;IND;Education|Under 15|D8;% of household heads in a given quantile;0
-Reference;India;IND;Education|Under 15|D9;% of household heads in a given quantile;0
-Reference;India;IND;Education|Under 15|D10;% of household heads in a given quantile;0
-Reference;India;IND;Education|No Education|D1;% of household heads in a given quantile;55.12
-Reference;India;IND;Education|No Education|D2;% of household heads in a given quantile;53.5
-Reference;India;IND;Education|No Education|D3;% of household heads in a given quantile;52.51
-Reference;India;IND;Education|No Education|D4;% of household heads in a given quantile;50.75
-Reference;India;IND;Education|No Education|D5;% of household heads in a given quantile;46.7
-Reference;India;IND;Education|No Education|D6;% of household heads in a given quantile;42.53
-Reference;India;IND;Education|No Education|D7;% of household heads in a given quantile;37.21
-Reference;India;IND;Education|No Education|D8;% of household heads in a given quantile;32.72
-Reference;India;IND;Education|No Education|D9;% of household heads in a given quantile;22.41
-Reference;India;IND;Education|No Education|D10;% of household heads in a given quantile;10.13
-Reference;India;IND;Education|Primary Education|D1;% of household heads in a given quantile;32.42
-Reference;India;IND;Education|Primary Education|D2;% of household heads in a given quantile;34.22
-Reference;India;IND;Education|Primary Education|D3;% of household heads in a given quantile;35.62
-Reference;India;IND;Education|Primary Education|D4;% of household heads in a given quantile;36.38
-Reference;India;IND;Education|Primary Education|D5;% of household heads in a given quantile;37.88
-Reference;India;IND;Education|Primary Education|D6;% of household heads in a given quantile;38.16
-Reference;India;IND;Education|Primary Education|D7;% of household heads in a given quantile;40.2
-Reference;India;IND;Education|Primary Education|D8;% of household heads in a given quantile;36.67
-Reference;India;IND;Education|Primary Education|D9;% of household heads in a given quantile;35.69
-Reference;India;IND;Education|Primary Education|D10;% of household heads in a given quantile;24.95
-Reference;India;IND;Education|Secondary Education|D1;% of household heads in a given quantile;10.07
-Reference;India;IND;Education|Secondary Education|D2;% of household heads in a given quantile;10.31
-Reference;India;IND;Education|Secondary Education|D3;% of household heads in a given quantile;9.77
-Reference;India;IND;Education|Secondary Education|D4;% of household heads in a given quantile;11.09
-Reference;India;IND;Education|Secondary Education|D5;% of household heads in a given quantile;12.09
-Reference;India;IND;Education|Secondary Education|D6;% of household heads in a given quantile;15.59
-Reference;India;IND;Education|Secondary Education|D7;% of household heads in a given quantile;17.87
-Reference;India;IND;Education|Secondary Education|D8;% of household heads in a given quantile;23.27
-Reference;India;IND;Education|Secondary Education|D9;% of household heads in a given quantile;29.31
-Reference;India;IND;Education|Secondary Education|D10;% of household heads in a given quantile;33.99
-Reference;India;IND;Education|Tertiary Education|D1;% of household heads in a given quantile;2.12
-Reference;India;IND;Education|Tertiary Education|D2;% of household heads in a given quantile;1.94
-Reference;India;IND;Education|Tertiary Education|D3;% of household heads in a given quantile;2.05
-Reference;India;IND;Education|Tertiary Education|D4;% of household heads in a given quantile;1.76
-Reference;India;IND;Education|Tertiary Education|D5;% of household heads in a given quantile;3.32
-Reference;India;IND;Education|Tertiary Education|D6;% of household heads in a given quantile;3.7
-Reference;India;IND;Education|Tertiary Education|D7;% of household heads in a given quantile;4.72
-Reference;India;IND;Education|Tertiary Education|D8;% of household heads in a given quantile;7.12
-Reference;India;IND;Education|Tertiary Education|D9;% of household heads in a given quantile;12.56
-Reference;India;IND;Education|Tertiary Education|D10;% of household heads in a given quantile;30.75
-Reference;India;IND;Expenditure Decile|D1;% of total expenditures in a given quantile;3.57865
-Reference;India;IND;Expenditure Decile|D2;% of total expenditures in a given quantile;5.08484
-Reference;India;IND;Expenditure Decile|D3;% of total expenditures in a given quantile;6.05138
-Reference;India;IND;Expenditure Decile|D4;% of total expenditures in a given quantile;6.87144
-Reference;India;IND;Expenditure Decile|D5;% of total expenditures in a given quantile;7.81915
-Reference;India;IND;Expenditure Decile|D6;% of total expenditures in a given quantile;8.74804
-Reference;India;IND;Expenditure Decile|D7;% of total expenditures in a given quantile;9.94085
-Reference;India;IND;Expenditure Decile|D8;% of total expenditures in a given quantile;11.51883
-Reference;India;IND;Expenditure Decile|D9;% of total expenditures in a given quantile;14.52018
-Reference;India;IND;Expenditure Decile|D10;% of total expenditures in a given quantile;25.86664
-Reference;India;IND;Income Decile|D1;% of total Income in a given quantile;1.52026
-Reference;India;IND;Income Decile|D2;% of total Income in a given quantile;2.88015
-Reference;India;IND;Income Decile|D3;% of total Income in a given quantile;3.831
-Reference;India;IND;Income Decile|D4;% of total Income in a given quantile;4.82749
-Reference;India;IND;Income Decile|D5;% of total Income in a given quantile;5.91879
-Reference;India;IND;Income Decile|D6;% of total Income in a given quantile;7.20029
-Reference;India;IND;Income Decile|D7;% of total Income in a given quantile;8.99782
-Reference;India;IND;Income Decile|D8;% of total Income in a given quantile;11.77517
-Reference;India;IND;Income Decile|D9;% of total Income in a given quantile;16.79345
-Reference;India;IND;Income Decile|D10;% of total Income in a given quantile;36.25561
+MODEL,SCENARIO,REGION,VARIABLE,UNIT,2012
+Reference,India,IND,Expenditure Share|Food|D1,% of total HH expenditures,59.661
+Reference,India,IND,Expenditure Share|Food|D2,% of total HH expenditures,59.904
+Reference,India,IND,Expenditure Share|Food|D3,% of total HH expenditures,59.157
+Reference,India,IND,Expenditure Share|Food|D4,% of total HH expenditures,58.524
+Reference,India,IND,Expenditure Share|Food|D5,% of total HH expenditures,57.309
+Reference,India,IND,Expenditure Share|Food|D6,% of total HH expenditures,55.563
+Reference,India,IND,Expenditure Share|Food|D7,% of total HH expenditures,53.311
+Reference,India,IND,Expenditure Share|Food|D8,% of total HH expenditures,50.401
+Reference,India,IND,Expenditure Share|Food|D9,% of total HH expenditures,45.762
+Reference,India,IND,Expenditure Share|Food|D10,% of total HH expenditures,33.146
+Reference,India,IND,Expenditure Share|Food|non-Meat|D1,% of total HH expenditures,57.43
+Reference,India,IND,Expenditure Share|Food|non-Meat|D2,% of total HH expenditures,57.385
+Reference,India,IND,Expenditure Share|Food|non-Meat|D3,% of total HH expenditures,56.674
+Reference,India,IND,Expenditure Share|Food|non-Meat|D4,% of total HH expenditures,56.018
+Reference,India,IND,Expenditure Share|Food|non-Meat|D5,% of total HH expenditures,54.867
+Reference,India,IND,Expenditure Share|Food|non-Meat|D6,% of total HH expenditures,53.15
+Reference,India,IND,Expenditure Share|Food|non-Meat|D7,% of total HH expenditures,50.992
+Reference,India,IND,Expenditure Share|Food|non-Meat|D8,% of total HH expenditures,48.308
+Reference,India,IND,Expenditure Share|Food|non-Meat|D9,% of total HH expenditures,43.858
+Reference,India,IND,Expenditure Share|Food|non-Meat|D10,% of total HH expenditures,31.787
+Reference,India,IND,Expenditure Share|Food|Meat|D1,% of total HH expenditures,2.231
+Reference,India,IND,Expenditure Share|Food|Meat|D2,% of total HH expenditures,2.519
+Reference,India,IND,Expenditure Share|Food|Meat|D3,% of total HH expenditures,2.483
+Reference,India,IND,Expenditure Share|Food|Meat|D4,% of total HH expenditures,2.506
+Reference,India,IND,Expenditure Share|Food|Meat|D5,% of total HH expenditures,2.442
+Reference,India,IND,Expenditure Share|Food|Meat|D6,% of total HH expenditures,2.413
+Reference,India,IND,Expenditure Share|Food|Meat|D7,% of total HH expenditures,2.319
+Reference,India,IND,Expenditure Share|Food|Meat|D8,% of total HH expenditures,2.093
+Reference,India,IND,Expenditure Share|Food|Meat|D9,% of total HH expenditures,1.904
+Reference,India,IND,Expenditure Share|Food|Meat|D10,% of total HH expenditures,1.359
+Reference,India,IND,Expenditure Share|Energy|Housing|D1,% of total HH expenditures,13.626
+Reference,India,IND,Expenditure Share|Energy|Housing|D2,% of total HH expenditures,11.751
+Reference,India,IND,Expenditure Share|Energy|Housing|D3,% of total HH expenditures,10.888
+Reference,India,IND,Expenditure Share|Energy|Housing|D4,% of total HH expenditures,10.249
+Reference,India,IND,Expenditure Share|Energy|Housing|D5,% of total HH expenditures,9.59
+Reference,India,IND,Expenditure Share|Energy|Housing|D6,% of total HH expenditures,9.1
+Reference,India,IND,Expenditure Share|Energy|Housing|D7,% of total HH expenditures,8.437
+Reference,India,IND,Expenditure Share|Energy|Housing|D8,% of total HH expenditures,7.789
+Reference,India,IND,Expenditure Share|Energy|Housing|D9,% of total HH expenditures,6.796
+Reference,India,IND,Expenditure Share|Energy|Housing|D10,% of total HH expenditures,4.836
+Reference,India,IND,Expenditure Share|Energy|Transportation|D1,% of total HH expenditures,0.079
+Reference,India,IND,Expenditure Share|Energy|Transportation|D2,% of total HH expenditures,0.182
+Reference,India,IND,Expenditure Share|Energy|Transportation|D3,% of total HH expenditures,0.359
+Reference,India,IND,Expenditure Share|Energy|Transportation|D4,% of total HH expenditures,0.548
+Reference,India,IND,Expenditure Share|Energy|Transportation|D5,% of total HH expenditures,0.873
+Reference,India,IND,Expenditure Share|Energy|Transportation|D6,% of total HH expenditures,1.353
+Reference,India,IND,Expenditure Share|Energy|Transportation|D7,% of total HH expenditures,1.858
+Reference,India,IND,Expenditure Share|Energy|Transportation|D8,% of total HH expenditures,2.505
+Reference,India,IND,Expenditure Share|Energy|Transportation|D9,% of total HH expenditures,3.41
+Reference,India,IND,Expenditure Share|Energy|Transportation|D10,% of total HH expenditures,4.766
+Reference,India,IND,Expenditure Share|Other|D1,% of total HH expenditures,26.635
+Reference,India,IND,Expenditure Share|Other|D2,% of total HH expenditures,28.163
+Reference,India,IND,Expenditure Share|Other|D3,% of total HH expenditures,29.596
+Reference,India,IND,Expenditure Share|Other|D4,% of total HH expenditures,30.679
+Reference,India,IND,Expenditure Share|Other|D5,% of total HH expenditures,32.228
+Reference,India,IND,Expenditure Share|Other|D6,% of total HH expenditures,33.984
+Reference,India,IND,Expenditure Share|Other|D7,% of total HH expenditures,36.394
+Reference,India,IND,Expenditure Share|Other|D8,% of total HH expenditures,39.305
+Reference,India,IND,Expenditure Share|Other|D9,% of total HH expenditures,44.033
+Reference,India,IND,Expenditure Share|Other|D10,% of total HH expenditures,57.252
+Reference,India,IND,Income Share|Labour|D1,% of total HH income,67.835174
+Reference,India,IND,Income Share|Labour|D2,% of total HH income,80.588892
+Reference,India,IND,Income Share|Labour|D3,% of total HH income,83.824945
+Reference,India,IND,Income Share|Labour|D4,% of total HH income,84.9072
+Reference,India,IND,Income Share|Labour|D5,% of total HH income,86.484701
+Reference,India,IND,Income Share|Labour|D6,% of total HH income,85.784774
+Reference,India,IND,Income Share|Labour|D7,% of total HH income,85.831363
+Reference,India,IND,Income Share|Labour|D8,% of total HH income,84.11015
+Reference,India,IND,Income Share|Labour|D9,% of total HH income,83.345162
+Reference,India,IND,Income Share|Labour|D10,% of total HH income,84.055139
+Reference,India,IND,Income Share|Capital|D1,% of total HH income,0.427147
+Reference,India,IND,Income Share|Capital|D2,% of total HH income,0.415268
+Reference,India,IND,Income Share|Capital|D3,% of total HH income,0.28649
+Reference,India,IND,Income Share|Capital|D4,% of total HH income,0.469977
+Reference,India,IND,Income Share|Capital|D5,% of total HH income,0.559954
+Reference,India,IND,Income Share|Capital|D6,% of total HH income,0.558045
+Reference,India,IND,Income Share|Capital|D7,% of total HH income,0.896454
+Reference,India,IND,Income Share|Capital|D8,% of total HH income,0.907611
+Reference,India,IND,Income Share|Capital|D9,% of total HH income,1.175423
+Reference,India,IND,Income Share|Capital|D10,% of total HH income,1.727161
+Reference,India,IND,Income Share|Transfers|D1,% of total HH income,30.255877
+Reference,India,IND,Income Share|Transfers|D2,% of total HH income,18.99584
+Reference,India,IND,Income Share|Transfers|D3,% of total HH income,15.888565
+Reference,India,IND,Income Share|Transfers|D4,% of total HH income,14.622823
+Reference,India,IND,Income Share|Transfers|D5,% of total HH income,12.955345
+Reference,India,IND,Income Share|Transfers|D6,% of total HH income,13.657181
+Reference,India,IND,Income Share|Transfers|D7,% of total HH income,13.272183
+Reference,India,IND,Income Share|Transfers|D8,% of total HH income,14.982238
+Reference,India,IND,Income Share|Transfers|D9,% of total HH income,15.479415
+Reference,India,IND,Income Share|Transfers|D10,% of total HH income,14.2177
+Reference,India,IND,Income Share|Other|D1,% of total HH income,0
+Reference,India,IND,Income Share|Other|D2,% of total HH income,0
+Reference,India,IND,Income Share|Other|D3,% of total HH income,0
+Reference,India,IND,Income Share|Other|D4,% of total HH income,0
+Reference,India,IND,Income Share|Other|D5,% of total HH income,0
+Reference,India,IND,Income Share|Other|D6,% of total HH income,0
+Reference,India,IND,Income Share|Other|D7,% of total HH income,0
+Reference,India,IND,Income Share|Other|D8,% of total HH income,0
+Reference,India,IND,Income Share|Other|D9,% of total HH income,0
+Reference,India,IND,Income Share|Other|D10,% of total HH income,0
+Reference,India,IND,Savings Rate|D1,% of total HH income,-33.9
+Reference,India,IND,Savings Rate|D2,% of total HH income,-4.3
+Reference,India,IND,Savings Rate|D3,% of total HH income,5.2
+Reference,India,IND,Savings Rate|D4,% of total HH income,12.1
+Reference,India,IND,Savings Rate|D5,% of total HH income,16.6
+Reference,India,IND,Savings Rate|D6,% of total HH income,21.7
+Reference,India,IND,Savings Rate|D7,% of total HH income,27.5
+Reference,India,IND,Savings Rate|D8,% of total HH income,33.7
+Reference,India,IND,Savings Rate|D9,% of total HH income,41.5
+Reference,India,IND,Savings Rate|D10,% of total HH income,52.73
+Reference,India,IND,Wealth Share|D1,% of national wealth,0.13
+Reference,India,IND,Wealth Share|D2,% of national wealth,0.6
+Reference,India,IND,Wealth Share|D3,% of national wealth,1.12
+Reference,India,IND,Wealth Share|D4,% of national wealth,1.74
+Reference,India,IND,Wealth Share|D5,% of national wealth,2.5
+Reference,India,IND,Wealth Share|D6,% of national wealth,3.59
+Reference,India,IND,Wealth Share|D7,% of national wealth,5.23
+Reference,India,IND,Wealth Share|D8,% of national wealth,8.12
+Reference,India,IND,Wealth Share|D9,% of national wealth,13.96
+Reference,India,IND,Wealth Share|D10,% of national wealth,63.02
+Reference,India,IND,Education|Under 15|D1,% of household heads in a given quantile,0
+Reference,India,IND,Education|Under 15|D2,% of household heads in a given quantile,0
+Reference,India,IND,Education|Under 15|D3,% of household heads in a given quantile,0
+Reference,India,IND,Education|Under 15|D4,% of household heads in a given quantile,0
+Reference,India,IND,Education|Under 15|D5,% of household heads in a given quantile,0
+Reference,India,IND,Education|Under 15|D6,% of household heads in a given quantile,0
+Reference,India,IND,Education|Under 15|D7,% of household heads in a given quantile,0
+Reference,India,IND,Education|Under 15|D8,% of household heads in a given quantile,0
+Reference,India,IND,Education|Under 15|D9,% of household heads in a given quantile,0
+Reference,India,IND,Education|Under 15|D10,% of household heads in a given quantile,0
+Reference,India,IND,Education|No Education|D1,% of household heads in a given quantile,55.12
+Reference,India,IND,Education|No Education|D2,% of household heads in a given quantile,53.5
+Reference,India,IND,Education|No Education|D3,% of household heads in a given quantile,52.51
+Reference,India,IND,Education|No Education|D4,% of household heads in a given quantile,50.75
+Reference,India,IND,Education|No Education|D5,% of household heads in a given quantile,46.7
+Reference,India,IND,Education|No Education|D6,% of household heads in a given quantile,42.53
+Reference,India,IND,Education|No Education|D7,% of household heads in a given quantile,37.21
+Reference,India,IND,Education|No Education|D8,% of household heads in a given quantile,32.72
+Reference,India,IND,Education|No Education|D9,% of household heads in a given quantile,22.41
+Reference,India,IND,Education|No Education|D10,% of household heads in a given quantile,10.13
+Reference,India,IND,Education|Primary Education|D1,% of household heads in a given quantile,32.42
+Reference,India,IND,Education|Primary Education|D2,% of household heads in a given quantile,34.22
+Reference,India,IND,Education|Primary Education|D3,% of household heads in a given quantile,35.62
+Reference,India,IND,Education|Primary Education|D4,% of household heads in a given quantile,36.38
+Reference,India,IND,Education|Primary Education|D5,% of household heads in a given quantile,37.88
+Reference,India,IND,Education|Primary Education|D6,% of household heads in a given quantile,38.16
+Reference,India,IND,Education|Primary Education|D7,% of household heads in a given quantile,40.2
+Reference,India,IND,Education|Primary Education|D8,% of household heads in a given quantile,36.67
+Reference,India,IND,Education|Primary Education|D9,% of household heads in a given quantile,35.69
+Reference,India,IND,Education|Primary Education|D10,% of household heads in a given quantile,24.95
+Reference,India,IND,Education|Secondary Education|D1,% of household heads in a given quantile,10.07
+Reference,India,IND,Education|Secondary Education|D2,% of household heads in a given quantile,10.31
+Reference,India,IND,Education|Secondary Education|D3,% of household heads in a given quantile,9.77
+Reference,India,IND,Education|Secondary Education|D4,% of household heads in a given quantile,11.09
+Reference,India,IND,Education|Secondary Education|D5,% of household heads in a given quantile,12.09
+Reference,India,IND,Education|Secondary Education|D6,% of household heads in a given quantile,15.59
+Reference,India,IND,Education|Secondary Education|D7,% of household heads in a given quantile,17.87
+Reference,India,IND,Education|Secondary Education|D8,% of household heads in a given quantile,23.27
+Reference,India,IND,Education|Secondary Education|D9,% of household heads in a given quantile,29.31
+Reference,India,IND,Education|Secondary Education|D10,% of household heads in a given quantile,33.99
+Reference,India,IND,Education|Tertiary Education|D1,% of household heads in a given quantile,2.12
+Reference,India,IND,Education|Tertiary Education|D2,% of household heads in a given quantile,1.94
+Reference,India,IND,Education|Tertiary Education|D3,% of household heads in a given quantile,2.05
+Reference,India,IND,Education|Tertiary Education|D4,% of household heads in a given quantile,1.76
+Reference,India,IND,Education|Tertiary Education|D5,% of household heads in a given quantile,3.32
+Reference,India,IND,Education|Tertiary Education|D6,% of household heads in a given quantile,3.7
+Reference,India,IND,Education|Tertiary Education|D7,% of household heads in a given quantile,4.72
+Reference,India,IND,Education|Tertiary Education|D8,% of household heads in a given quantile,7.12
+Reference,India,IND,Education|Tertiary Education|D9,% of household heads in a given quantile,12.56
+Reference,India,IND,Education|Tertiary Education|D10,% of household heads in a given quantile,30.75
+Reference,India,IND,Income Decile|D1,% of total Income in a given quantile,3.634938058
+Reference,India,IND,Income Decile|D2,% of total Income in a given quantile,4.590135786
+Reference,India,IND,Income Decile|D3,% of total Income in a given quantile,5.334441291
+Reference,India,IND,Income Decile|D4,% of total Income in a given quantile,6.100513111
+Reference,India,IND,Income Decile|D5,% of total Income in a given quantile,6.945085882
+Reference,India,IND,Income Decile|D6,% of total Income in a given quantile,8.011342535
+Reference,India,IND,Income Decile|D7,% of total Income in a given quantile,9.404747483
+Reference,India,IND,Income Decile|D8,% of total Income in a given quantile,11.43233491
+Reference,India,IND,Income Decile|D9,% of total Income in a given quantile,14.90502687
+Reference,India,IND,Income Decile|D10,% of total Income in a given quantile,29.64143407
+Reference,India,IND,Expenditure Decile|D1,% of total Expenditure in a given quantile,3.634938058
+Reference,India,IND,Expenditure Decile|D2,% of total Expenditure in a given quantile,4.590135786
+Reference,India,IND,Expenditure Decile|D3,% of total Expenditure in a given quantile,5.334441291
+Reference,India,IND,Expenditure Decile|D4,% of total Expenditure in a given quantile,6.100513111
+Reference,India,IND,Expenditure Decile|D5,% of total Expenditure in a given quantile,6.945085882
+Reference,India,IND,Expenditure Decile|D6,% of total Expenditure in a given quantile,8.011342535
+Reference,India,IND,Expenditure Decile|D7,% of total Expenditure in a given quantile,9.404747483
+Reference,India,IND,Expenditure Decile|D8,% of total Expenditure in a given quantile,11.43233491
+Reference,India,IND,Expenditure Decile|D9,% of total Expenditure in a given quantile,14.90502687
+Reference,India,IND,Expenditure Decile|D10,% of total Expenditure in a given quantile,29.64143407
