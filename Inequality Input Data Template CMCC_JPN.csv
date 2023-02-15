@@ -1,0 +1,164 @@
+MODEL,SCENARIO,REGION,VARIABLE,UNIT,2019
+Reference,,JPN,Expenditure Share|Food|D1,%,28.66494255
+Reference,,JPN,Expenditure Share|Food|D2,%,28.82315299
+Reference,,JPN,Expenditure Share|Food|D3,%,27.62655799
+Reference,,JPN,Expenditure Share|Food|D4,%,28.4454432
+Reference,,JPN,Expenditure Share|Food|D5,%,27.67521128
+Reference,,JPN,Expenditure Share|Food|D6,%,27.13731581
+Reference,,JPN,Expenditure Share|Food|D7,%,27.15251398
+Reference,,JPN,Expenditure Share|Food|D8,%,26.37481835
+Reference,,JPN,Expenditure Share|Food|D9,%,26.73899191
+Reference,,JPN,Expenditure Share|Food|D10,%,24.34878496
+Reference,,JPN,Expenditure Share|Energy|Housing|D1,%,9.957179802
+Reference,,JPN,Expenditure Share|Energy|Housing|D2,%,8.801778564
+Reference,,JPN,Expenditure Share|Energy|Housing|D3,%,7.744514946
+Reference,,JPN,Expenditure Share|Energy|Housing|D4,%,7.64494382
+Reference,,JPN,Expenditure Share|Energy|Housing|D5,%,7.340897418
+Reference,,JPN,Expenditure Share|Energy|Housing|D6,%,7.388116714
+Reference,,JPN,Expenditure Share|Energy|Housing|D7,%,7.030954746
+Reference,,JPN,Expenditure Share|Energy|Housing|D8,%,6.669841954
+Reference,,JPN,Expenditure Share|Energy|Housing|D9,%,6.475817243
+Reference,,JPN,Expenditure Share|Energy|Housing|D10,%,5.640334073
+Reference,,JPN,Expenditure Share|Energy|Transportation|D1,%,6.948742952
+Reference,,JPN,Expenditure Share|Energy|Transportation|D2,%,6.593087615
+Reference,,JPN,Expenditure Share|Energy|Transportation|D3,%,8.168077622
+Reference,,JPN,Expenditure Share|Energy|Transportation|D4,%,9.434706617
+Reference,,JPN,Expenditure Share|Energy|Transportation|D5,%,8.826633049
+Reference,,JPN,Expenditure Share|Energy|Transportation|D6,%,10.1375564
+Reference,,JPN,Expenditure Share|Energy|Transportation|D7,%,9.683439503
+Reference,,JPN,Expenditure Share|Energy|Transportation|D8,%,9.755317448
+Reference,,JPN,Expenditure Share|Energy|Transportation|D9,%,9.350347289
+Reference,,JPN,Expenditure Share|Energy|Transportation|D10,%,9.202330037
+Reference,,JPN,Income Share|Agri|D1,%,0.437445319
+Reference,,JPN,Income Share|Agri|D2,%,0.624699664
+Reference,,JPN,Income Share|Agri|D3,%,0.431499461
+Reference,,JPN,Income Share|Agri|D4,%,0.6126021
+Reference,,JPN,Income Share|Agri|D5,%,0.652016421
+Reference,,JPN,Income Share|Agri|D6,%,0.664384941
+Reference,,JPN,Income Share|Agri|D7,%,0.669456067
+Reference,,JPN,Income Share|Agri|D8,%,0.646581373
+Reference,,JPN,Income Share|Agri|D9,%,0.69291685
+Reference,,JPN,Income Share|Agri|D10,%,1.610639578
+Reference,,JPN,Income Share|Labour|D1,%,23.9720035
+Reference,,JPN,Income Share|Labour|D2,%,31.85968284
+Reference,,JPN,Income Share|Labour|D3,%,43.6533621
+Reference,,JPN,Income Share|Labour|D4,%,47.37456243
+Reference,,JPN,Income Share|Labour|D5,%,61.45858488
+Reference,,JPN,Income Share|Labour|D6,%,65.99557077
+Reference,,JPN,Income Share|Labour|D7,%,74.29288703
+Reference,,JPN,Income Share|Labour|D8,%,77.19081029
+Reference,,JPN,Income Share|Labour|D9,%,79.57545095
+Reference,,JPN,Income Share|Labour|D10,%,75.08521019
+Reference,,JPN,Income Share|Capital|D1,%,0.962379703
+Reference,,JPN,Income Share|Capital|D2,%,0.528592023
+Reference,,JPN,Income Share|Capital|D3,%,0.575332614
+Reference,,JPN,Income Share|Capital|D4,%,0.700116686
+Reference,,JPN,Income Share|Capital|D5,%,0.482975127
+Reference,,JPN,Income Share|Capital|D6,%,0.442923294
+Reference,,JPN,Income Share|Capital|D7,%,0.418410042
+Reference,,JPN,Income Share|Capital|D8,%,0.481496767
+Reference,,JPN,Income Share|Capital|D9,%,0.472943247
+Reference,,JPN,Income Share|Capital|D10,%,0.507919535
+Reference,,JPN,Income Share|Transfers|D1,%,65.17935258
+Reference,,JPN,Income Share|Transfers|D2,%,58.96203748
+Reference,,JPN,Income Share|Transfers|D3,%,47.14131607
+Reference,,JPN,Income Share|Transfers|D4,%,43.52392065
+Reference,,JPN,Income Share|Transfers|D5,%,28.95435885
+Reference,,JPN,Income Share|Transfers|D6,%,23.69639622
+Reference,,JPN,Income Share|Transfers|D7,%,16.13389121
+Reference,,JPN,Income Share|Transfers|D8,%,12.14747558
+Reference,,JPN,Income Share|Transfers|D9,%,9.854817422
+Reference,,JPN,Income Share|Transfers|D10,%,6.115083874
+Reference,,JPN,Income Share|Other|D1,%,9.448818898
+Reference,,JPN,Income Share|Other|D2,%,8.024987987
+Reference,,JPN,Income Share|Other|D3,%,8.198489752
+Reference,,JPN,Income Share|Other|D4,%,7.788798133
+Reference,,JPN,Income Share|Other|D5,%,8.452064719
+Reference,,JPN,Income Share|Other|D6,%,9.200724784
+Reference,,JPN,Income Share|Other|D7,%,8.485355649
+Reference,,JPN,Income Share|Other|D8,%,9.533635988
+Reference,,JPN,Income Share|Other|D9,%,9.403871535
+Reference,,JPN,Income Share|Other|D10,%,16.68114683
+Reference,,JPN,Savings Rate|D1,%,-23.81627297
+Reference,,JPN,Savings Rate|D2,%,12.59029313
+Reference,,JPN,Savings Rate|D3,%,21.86278317
+Reference,,JPN,Savings Rate|D4,%,29.9008168
+Reference,,JPN,Savings Rate|D5,%,37.93673026
+Reference,,JPN,Savings Rate|D6,%,42.76118381
+Reference,,JPN,Savings Rate|D7,%,48.45221757
+Reference,,JPN,Savings Rate|D8,%,52.51539414
+Reference,,JPN,Savings Rate|D9,%,58.57545095
+Reference,,JPN,Savings Rate|D10,%,67.05401323
+Reference,,JPN,Education|No Education|D1,%,5.83
+Reference,,JPN,Education|No Education|D2,%,1.9
+Reference,,JPN,Education|No Education|D3,%,0.78
+Reference,,JPN,Education|No Education|D4,%,0
+Reference,,JPN,Education|No Education|D5,%,0
+Reference,,JPN,Education|No Education|D6,%,0
+Reference,,JPN,Education|No Education|D7,%,0
+Reference,,JPN,Education|No Education|D8,%,0
+Reference,,JPN,Education|No Education|D9,%,0
+Reference,,JPN,Education|No Education|D10,%,0
+Reference,,JPN,Education|Primary Education|D1,%,6.8
+Reference,,JPN,Education|Primary Education|D2,%,11.43
+Reference,,JPN,Education|Primary Education|D3,%,8.59
+Reference,,JPN,Education|Primary Education|D4,%,8.11
+Reference,,JPN,Education|Primary Education|D5,%,0.98
+Reference,,JPN,Education|Primary Education|D6,%,7.34
+Reference,,JPN,Education|Primary Education|D7,%,3.13
+Reference,,JPN,Education|Primary Education|D8,%,4.35
+Reference,,JPN,Education|Primary Education|D9,%,2.2
+Reference,,JPN,Education|Primary Education|D10,%,2
+Reference,,JPN,Education|Secondary Education|D1,%,46.6
+Reference,,JPN,Education|Secondary Education|D2,%,58.1
+Reference,,JPN,Education|Secondary Education|D3,%,68.75
+Reference,,JPN,Education|Secondary Education|D4,%,70.27
+Reference,,JPN,Education|Secondary Education|D5,%,72.55
+Reference,,JPN,Education|Secondary Education|D6,%,64.22
+Reference,,JPN,Education|Secondary Education|D7,%,78.13
+Reference,,JPN,Education|Secondary Education|D8,%,76.52
+Reference,,JPN,Education|Secondary Education|D9,%,78.02
+Reference,,JPN,Education|Secondary Education|D10,%,79
+Reference,,JPN,Education|Tertiary Education|D1,%,6.5
+Reference,,JPN,Education|Tertiary Education|D2,%,7.48
+Reference,,JPN,Education|Tertiary Education|D3,%,9.38
+Reference,,JPN,Education|Tertiary Education|D4,%,8.11
+Reference,,JPN,Education|Tertiary Education|D5,%,11.76
+Reference,,JPN,Education|Tertiary Education|D6,%,16.51
+Reference,,JPN,Education|Tertiary Education|D7,%,10.42
+Reference,,JPN,Education|Tertiary Education|D8,%,13.04
+Reference,,JPN,Education|Tertiary Education|D9,%,14.29
+Reference,,JPN,Education|Tertiary Education|D10,%,18.24
+Reference,,JPN,Inequality Index|Gini,index,0.341
+Reference,,JPN,Inequality Index|Absolute Poverty,%,12.1
+Reference,,JPN,Household Size|D1,number,1.29
+Reference,,JPN,Household Size|D2,number,1.48
+Reference,,JPN,Household Size|D3,number,1.69
+Reference,,JPN,Household Size|D4,number,1.89
+Reference,,JPN,Household Size|D5,number,2.08
+Reference,,JPN,Household Size|D6,number,2.36
+Reference,,JPN,Household Size|D7,number,2.66
+Reference,,JPN,Household Size|D8,number,2.88
+Reference,,JPN,Household Size|D9,number,3.13
+Reference,,JPN,Household Size|D10,number,3.42
+Reference,,JPN,Household Size|OECD equivalence scale,number,2.14
+Reference,,JPN,Expenditure Decile|D1,% of total expenditures in a given quantile,2.894117084
+Reference,,JPN,Expenditure Decile|D2,% of total expenditures in a given quantile,5.544180832
+Reference,,JPN,Expenditure Decile|D3,% of total expenditures in a given quantile,6.833493415
+Reference,,JPN,Expenditure Decile|D4,% of total expenditures in a given quantile,7.43986683
+Reference,,JPN,Expenditure Decile|D5,% of total expenditures in a given quantile,8.188091975
+Reference,,JPN,Expenditure Decile|D6,% of total expenditures in a given quantile,9.469201084
+Reference,,JPN,Expenditure Decile|D7,% of total expenditures in a given quantile,8.569553492
+Reference,,JPN,Expenditure Decile|D8,% of total expenditures in a given quantile,11.57886102
+Reference,,JPN,Expenditure Decile|D9,% of total expenditures in a given quantile,15.84193274
+Reference,,JPN,Expenditure Decile|D10,% of total expenditures in a given quantile,23.64070153
+Reference,,JPN,Income Decile|D1,% of total Income in a given quantile,2.3473
+Reference,,JPN,Income Decile|D2,% of total Income in a given quantile,4.338
+Reference,,JPN,Income Decile|D3,% of total Income in a given quantile,6.9838
+Reference,,JPN,Income Decile|D4,% of total Income in a given quantile,4.9101
+Reference,,JPN,Income Decile|D5,% of total Income in a given quantile,8.0384
+Reference,,JPN,Income Decile|D6,% of total Income in a given quantile,10.1756
+Reference,,JPN,Income Decile|D7,% of total Income in a given quantile,10.2265
+Reference,,JPN,Income Decile|D8,% of total Income in a given quantile,14.242
+Reference,,JPN,Income Decile|D9,% of total Income in a given quantile,13.7421
+Reference,,JPN,Income Decile|D10,% of total Income in a given quantile,24.9962

@@ -4999,6 +4999,169 @@ year,iso3,var,element,dist,value
 2012,IND,expenditure_decile,,D8,11.43233491
 2012,IND,expenditure_decile,,D9,14.90502687
 2012,IND,expenditure_decile,,D10,29.64143407
+2019,JPN,expcat_input,food,D1,28.66494255
+2019,JPN,expcat_input,food,D2,28.82315299
+2019,JPN,expcat_input,food,D3,27.62655799
+2019,JPN,expcat_input,food,D4,28.4454432
+2019,JPN,expcat_input,food,D5,27.67521128
+2019,JPN,expcat_input,food,D6,27.13731581
+2019,JPN,expcat_input,food,D7,27.15251398
+2019,JPN,expcat_input,food,D8,26.37481835
+2019,JPN,expcat_input,food,D9,26.73899191
+2019,JPN,expcat_input,food,D10,24.34878496
+2019,JPN,expcat_input,energy_housing,D1,9.957179802
+2019,JPN,expcat_input,energy_housing,D2,8.801778564
+2019,JPN,expcat_input,energy_housing,D3,7.744514946
+2019,JPN,expcat_input,energy_housing,D4,7.64494382
+2019,JPN,expcat_input,energy_housing,D5,7.340897418
+2019,JPN,expcat_input,energy_housing,D6,7.388116714
+2019,JPN,expcat_input,energy_housing,D7,7.030954746
+2019,JPN,expcat_input,energy_housing,D8,6.669841954
+2019,JPN,expcat_input,energy_housing,D9,6.475817243
+2019,JPN,expcat_input,energy_housing,D10,5.640334073
+2019,JPN,expcat_input,energy_transportation,D1,6.948742952
+2019,JPN,expcat_input,energy_transportation,D2,6.593087615
+2019,JPN,expcat_input,energy_transportation,D3,8.168077622
+2019,JPN,expcat_input,energy_transportation,D4,9.434706617
+2019,JPN,expcat_input,energy_transportation,D5,8.826633049
+2019,JPN,expcat_input,energy_transportation,D6,10.1375564
+2019,JPN,expcat_input,energy_transportation,D7,9.683439503
+2019,JPN,expcat_input,energy_transportation,D8,9.755317448
+2019,JPN,expcat_input,energy_transportation,D9,9.350347289
+2019,JPN,expcat_input,energy_transportation,D10,9.202330037
+2019,JPN,incomecat,other,D1,0.437445319
+2019,JPN,incomecat,other,D2,0.624699664
+2019,JPN,incomecat,other,D3,0.431499461
+2019,JPN,incomecat,other,D4,0.6126021
+2019,JPN,incomecat,other,D5,0.652016421
+2019,JPN,incomecat,other,D6,0.664384941
+2019,JPN,incomecat,other,D7,0.669456067
+2019,JPN,incomecat,other,D8,0.646581373
+2019,JPN,incomecat,other,D9,0.69291685
+2019,JPN,incomecat,other,D10,1.610639578
+2019,JPN,incomecat,labour,D1,23.9720035
+2019,JPN,incomecat,labour,D2,31.85968284
+2019,JPN,incomecat,labour,D3,43.6533621
+2019,JPN,incomecat,labour,D4,47.37456243
+2019,JPN,incomecat,labour,D5,61.45858488
+2019,JPN,incomecat,labour,D6,65.99557077
+2019,JPN,incomecat,labour,D7,74.29288703
+2019,JPN,incomecat,labour,D8,77.19081029
+2019,JPN,incomecat,labour,D9,79.57545095
+2019,JPN,incomecat,labour,D10,75.08521019
+2019,JPN,incomecat,capital,D1,0.962379703
+2019,JPN,incomecat,capital,D2,0.528592023
+2019,JPN,incomecat,capital,D3,0.575332614
+2019,JPN,incomecat,capital,D4,0.700116686
+2019,JPN,incomecat,capital,D5,0.482975127
+2019,JPN,incomecat,capital,D6,0.442923294
+2019,JPN,incomecat,capital,D7,0.418410042
+2019,JPN,incomecat,capital,D8,0.481496767
+2019,JPN,incomecat,capital,D9,0.472943247
+2019,JPN,incomecat,capital,D10,0.507919535
+2019,JPN,incomecat,transfers,D1,65.17935258
+2019,JPN,incomecat,transfers,D2,58.96203748
+2019,JPN,incomecat,transfers,D3,47.14131607
+2019,JPN,incomecat,transfers,D4,43.52392065
+2019,JPN,incomecat,transfers,D5,28.95435885
+2019,JPN,incomecat,transfers,D6,23.69639622
+2019,JPN,incomecat,transfers,D7,16.13389121
+2019,JPN,incomecat,transfers,D8,12.14747558
+2019,JPN,incomecat,transfers,D9,9.854817422
+2019,JPN,incomecat,transfers,D10,6.115083874
+2019,JPN,incomecat,other,D1,9.448818898
+2019,JPN,incomecat,other,D2,8.024987987
+2019,JPN,incomecat,other,D3,8.198489752
+2019,JPN,incomecat,other,D4,7.788798133
+2019,JPN,incomecat,other,D5,8.452064719
+2019,JPN,incomecat,other,D6,9.200724784
+2019,JPN,incomecat,other,D7,8.485355649
+2019,JPN,incomecat,other,D8,9.533635988
+2019,JPN,incomecat,other,D9,9.403871535
+2019,JPN,incomecat,other,D10,16.68114683
+2019,JPN,savings_rate,,D1,-23.81627297
+2019,JPN,savings_rate,,D2,12.59029313
+2019,JPN,savings_rate,,D3,21.86278317
+2019,JPN,savings_rate,,D4,29.9008168
+2019,JPN,savings_rate,,D5,37.93673026
+2019,JPN,savings_rate,,D6,42.76118381
+2019,JPN,savings_rate,,D7,48.45221757
+2019,JPN,savings_rate,,D8,52.51539414
+2019,JPN,savings_rate,,D9,58.57545095
+2019,JPN,savings_rate,,D10,67.05401323
+2019,JPN,educat,No education,D1,5.83
+2019,JPN,educat,No education,D2,1.9
+2019,JPN,educat,No education,D3,0.78
+2019,JPN,educat,No education,D4,0
+2019,JPN,educat,No education,D5,0
+2019,JPN,educat,No education,D6,0
+2019,JPN,educat,No education,D7,0
+2019,JPN,educat,No education,D8,0
+2019,JPN,educat,No education,D9,0
+2019,JPN,educat,No education,D10,0
+2019,JPN,educat,Primary Education,D1,6.8
+2019,JPN,educat,Primary Education,D2,11.43
+2019,JPN,educat,Primary Education,D3,8.59
+2019,JPN,educat,Primary Education,D4,8.11
+2019,JPN,educat,Primary Education,D5,0.98
+2019,JPN,educat,Primary Education,D6,7.34
+2019,JPN,educat,Primary Education,D7,3.13
+2019,JPN,educat,Primary Education,D8,4.35
+2019,JPN,educat,Primary Education,D9,2.2
+2019,JPN,educat,Primary Education,D10,2
+2019,JPN,educat,Secondary Education,D1,46.6
+2019,JPN,educat,Secondary Education,D2,58.1
+2019,JPN,educat,Secondary Education,D3,68.75
+2019,JPN,educat,Secondary Education,D4,70.27
+2019,JPN,educat,Secondary Education,D5,72.55
+2019,JPN,educat,Secondary Education,D6,64.22
+2019,JPN,educat,Secondary Education,D7,78.13
+2019,JPN,educat,Secondary Education,D8,76.52
+2019,JPN,educat,Secondary Education,D9,78.02
+2019,JPN,educat,Secondary Education,D10,79
+2019,JPN,educat,Tertiary Education,D1,6.5
+2019,JPN,educat,Tertiary Education,D2,7.48
+2019,JPN,educat,Tertiary Education,D3,9.38
+2019,JPN,educat,Tertiary Education,D4,8.11
+2019,JPN,educat,Tertiary Education,D5,11.76
+2019,JPN,educat,Tertiary Education,D6,16.51
+2019,JPN,educat,Tertiary Education,D7,10.42
+2019,JPN,educat,Tertiary Education,D8,13.04
+2019,JPN,educat,Tertiary Education,D9,14.29
+2019,JPN,educat,Tertiary Education,D10,18.24
+2019,JPN,inequality_index,gini,0,0.341
+2019,JPN,inequality_index,absolute_poverty,0,12.1
+2019,JPN,household_size,,D1,1.29
+2019,JPN,household_size,,D2,1.48
+2019,JPN,household_size,,D3,1.69
+2019,JPN,household_size,,D4,1.89
+2019,JPN,household_size,,D5,2.08
+2019,JPN,household_size,,D6,2.36
+2019,JPN,household_size,,D7,2.66
+2019,JPN,household_size,,D8,2.88
+2019,JPN,household_size,,D9,3.13
+2019,JPN,household_size,,D10,3.42
+2019,JPN,household_size,,,2.14
+2019,JPN,expenditure_decile,,D1,2.894117084
+2019,JPN,expenditure_decile,,D2,5.544180832
+2019,JPN,expenditure_decile,,D3,6.833493415
+2019,JPN,expenditure_decile,,D4,7.43986683
+2019,JPN,expenditure_decile,,D5,8.188091975
+2019,JPN,expenditure_decile,,D6,9.469201084
+2019,JPN,expenditure_decile,,D7,8.569553492
+2019,JPN,expenditure_decile,,D8,11.57886102
+2019,JPN,expenditure_decile,,D9,15.84193274
+2019,JPN,expenditure_decile,,D10,23.64070153
+2019,JPN,income_decile,,D1,2.3473
+2019,JPN,income_decile,,D2,4.338
+2019,JPN,income_decile,,D3,6.9838
+2019,JPN,income_decile,,D4,4.9101
+2019,JPN,income_decile,,D5,8.0384
+2019,JPN,income_decile,,D6,10.1756
+2019,JPN,income_decile,,D7,10.2265
+2019,JPN,income_decile,,D8,14.242
+2019,JPN,income_decile,,D9,13.7421
+2019,JPN,income_decile,,D10,24.9962
 2018,MEX,expcat_input,food,D1,48.718
 2018,MEX,expcat_input,food,D2,46.266
 2018,MEX,expcat_input,food,D3,44.82
